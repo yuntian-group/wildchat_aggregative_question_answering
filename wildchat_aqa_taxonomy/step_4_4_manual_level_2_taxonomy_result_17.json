@@ -1,0 +1,74 @@
+{
+    "classes": [
+        {
+            "class_name": "Anime & Manga",
+            "class_description": "Focuses on official Japanese animation and comics, such as Naruto, Bleach, and One Piece. Discussions include plot points, character development, and cultural context specific to Japanese anime and manga. Fan-created crossovers or rewrites of anime elements go under Fanfiction & Crossovers.",
+            "index": 0
+        },
+        {
+            "class_name": "Western Animation & Comics",
+            "class_description": "Covers official animated series and comic books produced primarily outside Japan, such as Disney, Marvel, DC, and other Western publishers. This includes plot discussions, character information, and critical reviews of recognized cartoons and comics from these sources.",
+            "index": 1
+        },
+        {
+            "class_name": "Live-Action Film & TV",
+            "class_description": "Centers on movies, series, and dramas featuring real actors, real-world settings, or on-location production. Examples include Hollywood films, TV dramas, and international live-action shows. Content merges with other franchises go under Fanfiction & Crossovers.",
+            "index": 2
+        },
+        {
+            "class_name": "Music & Stage",
+            "class_description": "Encompasses musical performances, bands, theater productions, concerts, or stage events, including lyrics, choreography, and behind-the-scenes discussions related to music and live performances. Unofficial rewritten content belongs in Fanfiction & Crossovers.",
+            "index": 3
+        },
+        {
+            "class_name": "Celebrity & Pop Culture",
+            "class_description": "Highlights discussions about public figures, viral trends, social media gossip, and mainstream pop culture phenomena. Content may cover interviews, personal style, and public appearances. If mixed with fictional crossovers, see Fanfiction & Crossovers.",
+            "index": 4
+        },
+        {
+            "class_name": "Gaming Mechanics & Tech",
+            "class_description": "Focuses on the technical and interactive aspects of games, including coding, modding, hardware, platform reliability, user interface design, cheats, or strategies. Official narratives belong in Gaming Story & Lore, and creative rewrites go in Fanfiction & Crossovers.",
+            "index": 5
+        },
+        {
+            "class_name": "Gaming Story & Lore",
+            "class_description": "Deals with official canon, character arcs, worldbuilding, expansions, and recognized plots within video games or similar interactive media. This category excludes user-generated alternate timelines or crossovers, which go into Fanfiction & Crossovers.",
+            "index": 6
+        },
+        {
+            "class_name": "Fanfiction & Crossovers",
+            "class_description": "Contains user-generated or unofficial works that blend characters, settings, or storylines from multiple franchises, or significantly alter established canon. This includes romantic fanfiction, humorous parodies, or original expansions set in existing fictional worlds.",
+            "index": 7
+        },
+        {
+            "class_name": "Sports, eSports, & Pro Wrestling",
+            "class_description": "Encompasses real-world sports events, professional wrestling entertainment, and eSports tournaments. Topics include match outcomes, athlete stats, player transfers, and strategic breakdowns of competitions. If it involves fictional rewriting, see Fanfiction & Crossovers.",
+            "index": 8
+        },
+        {
+            "class_name": "Tabletop & TTRPG",
+            "class_description": "Pertains to board games, card games, and tabletop role-playing games. Discussions might include rule clarifications, campaign scenarios, character builds, and community events for systems like Dungeons & Dragons or similar formats.",
+            "index": 9
+        },
+        {
+            "class_name": "NSFW & Explicit Scenes",
+            "class_description": "Reserved for content containing graphic sexual or violent details beyond a PG-13 threshold. This includes explicit adult scenarios or intense violence. If it combines multiple franchises, this category takes precedence over Fanfiction & Crossovers due to adult content.",
+            "index": 10
+        },
+        {
+            "class_name": "Original Fiction & Scripts",
+            "class_description": "Applies to user-created narratives or scripts not derived from any existing franchise. This might involve entirely new characters, settings, and plots. If the story intersects with known franchises or crosses universes, see Fanfiction & Crossovers.",
+            "index": 11
+        },
+        {
+            "class_name": "Production & Broadcasting",
+            "class_description": "Covers the behind-the-scenes aspects of media creation and distribution. Topics may include TV channel rebranding, network scheduling, streaming services, radio format changes, and other aspects of how entertainment is produced or delivered to the public.",
+            "index": 12
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 13
+        }
+    ]
+}

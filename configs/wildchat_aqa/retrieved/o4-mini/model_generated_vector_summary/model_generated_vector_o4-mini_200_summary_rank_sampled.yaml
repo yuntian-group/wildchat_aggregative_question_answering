@@ -1,0 +1,28 @@
+model_config:
+  name: o4-mini
+  batch_size: 2000
+  request_mode: offline_batch
+  rpm_limit: 500
+  tpm_limit: 200000
+  sampling_params:
+    response_format:
+      type: json_object
+query_generation_model_config:
+  name: gpt-4.1-mini
+  batch_size: 400
+  request_mode: offline_batch
+  rpm_limit: 500
+  tpm_limit: 200000
+  sampling_params:
+    temperature: 0.5
+    top_p: 0.5
+    response_format:
+      type: json_object
+rag_config:
+  rag_type: vector
+  data_path: dataset/wildchat_aqa_sampled_subset_with_embedding_and_gpt_generated_query
+  max_context_token_count: 195000
+  topk: 200
+  prompt_template_path: prompts/eval_wildchat_aqa_prompt_use_summary_rank.md
+  elasticsearch_index_name: wildchat_aqa_document
+  elasticsearch_host_name: localhost:9200

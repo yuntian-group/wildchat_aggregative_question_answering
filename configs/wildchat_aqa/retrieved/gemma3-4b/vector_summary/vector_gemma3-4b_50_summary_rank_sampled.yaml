@@ -1,0 +1,17 @@
+model_config:
+  name: google/gemma-3-4b-it
+  batch_size: 1024
+  sampling_params:
+    n: 1
+    max_tokens: 2000
+    top_p: 0.95
+    top_k: 64
+    temperature: 1.0
+rag_config:
+  rag_type: vector
+  data_path: dataset/wildchat_aqa_sampled_subset_with_embedding_and_gpt_generated_query
+  max_context_token_count: 127000
+  topk: 50
+  prompt_template_path: prompts/eval_wildchat_aqa_prompt_use_summary_rank.md
+  elasticsearch_index_name: wildchat_aqa_summary
+  elasticsearch_host_name: localhost:9200

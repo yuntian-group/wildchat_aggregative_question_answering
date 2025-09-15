@@ -1,0 +1,44 @@
+{
+    "classes": [
+        {
+            "class_name": "International Relations & Geopolitics",
+            "class_description": "This category covers cross-border political interactions, global power struggles, territorial disputes, international conflicts, diplomatic engagements, treaties, military interventions, and strategic alliances. It addresses geopolitical crises and shifts in the global order that shape relations between states and regions.",
+            "index": 0
+        },
+        {
+            "class_name": "Domestic Governance & Public Policy",
+            "class_description": "This category focuses on internal state administration and policy formulation. It includes constitutional frameworks, legislative reforms, administrative decision-making, public service delivery, local governance, and crisis management. It also encompasses regulatory policies including digital governance, public health measures, educational reforms, and institutional developments that affect societal outcomes within a country.",
+            "index": 1
+        },
+        {
+            "class_name": "Political Leadership & Electoral Dynamics",
+            "class_description": "This category is dedicated to individual political figures, campaign strategies, election processes, political scandals, and public opinion formation. It covers leadership profiles, controversies surrounding politicians, electoral contests, and the dynamics that influence political authority and electoral outcomes.",
+            "index": 2
+        },
+        {
+            "class_name": "Political Theories & Ideological Debates",
+            "class_description": "This category examines abstract political frameworks and ideological discourses that underpin modern governance. It encompasses discussions on liberalism, conservatism, socialism, nationalism, anarchism, and other political ideologies, including theoretical critiques and comparisons of different political systems and their societal impacts.",
+            "index": 3
+        },
+        {
+            "class_name": "Social Justice, Identity & Cultural Norms",
+            "class_description": "This category addresses issues related to equality, discrimination, and cultural norms. It covers debates on civil rights, gender equality, racial justice, LGBTQ+ rights, and social inclusion. It includes discussions on societal biases, national identity, and cultural responses to discrimination and social inequities.",
+            "index": 4
+        },
+        {
+            "class_name": "Economic Policy & Regulation",
+            "class_description": "This category focuses on governmental approaches to economic management and reform. It addresses fiscal policies, taxation, trade regulation, budgetary decisions, market interventions, and financial governance. It also includes discussions on economic reforms, regulatory policies in corporate and digital environments, and the economic dimensions of public policy.",
+            "index": 5
+        },
+        {
+            "class_name": "National Security & Crisis Management",
+            "class_description": "This category covers issues related to defense, public safety, and crisis response. It includes military operations, counterterrorism strategies, law enforcement policies, and emergency management during conflicts or disasters. This category balances security measures with civil liberties in both domestic and international contexts.",
+            "index": 6
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 7
+        }
+    ]
+}

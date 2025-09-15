@@ -1,0 +1,94 @@
+{
+    "classes": [
+        {
+            "class_name": "Household Cleaning & Stain Removal",
+            "class_description": "Focuses on cleaning advice, stain removal techniques, and the use of household or specialty products to keep living spaces hygienic. It covers strategies for eliminating dirt, mold, or odors from floors, walls, countertops, and furniture. Emphasis is placed on correct cleaning methods, ensuring sanitation, and maintaining a fresh home environment.",
+            "index": 0
+        },
+        {
+            "class_name": "Laundry & Fabric Care",
+            "class_description": "Deals specifically with washing, drying, and caring for clothes, linens, and other fabric items. Topics include stain pre-treatment on garments, detergent or softener selection, adjusting machine settings, and post-wash inspections. The goal is to preserve fabric quality, prevent shrinkage or color runs, and extend the life of textiles through proper handling.",
+            "index": 1
+        },
+        {
+            "class_name": "Home Maintenance & Appliance Repair",
+            "class_description": "Covers upkeep and troubleshooting for household systems and devices, such as plumbing, electrical fixtures, HVAC systems, and kitchen appliances. This includes identifying faults, performing basic fixes, and knowing when to call professionals. The main focus is on safety, efficiency, and regular servicing schedules to prolong the lifespan of home equipment.",
+            "index": 2
+        },
+        {
+            "class_name": "Interior Design & Decoration",
+            "class_description": "Addresses the aesthetic aspects of home interiors, including color coordination, furniture placement, decorative accessories, and lighting choices. Users can explore design themes, seasonal d\u00e9cor updates, and space optimization to balance comfort and visual appeal. Emphasis is on personalizing living spaces to reflect individual style while maintaining functionality.",
+            "index": 3
+        },
+        {
+            "class_name": "DIY Tools & Household Projects",
+            "class_description": "Encompasses small-scale or creative do-it-yourself activities in the home, from carpentry basics and furniture assembly to minor repairs and craft projects. This category provides guidance on choosing the right tools, following safety protocols, and step-by-step procedures for hands-on improvements or personalizing household items.",
+            "index": 4
+        },
+        {
+            "class_name": "Home Fixtures & Materials",
+            "class_description": "Focuses on selecting, installing, or updating parts of the home that are permanently or semi-permanently attached, such as door knobs, cabinet handles, hinges, seal strips, faucets, or shelving brackets. Users learn about different materials, styles, and correct installation practices to ensure both practicality and cohesive design.",
+            "index": 5
+        },
+        {
+            "class_name": "Home Organization & Storage Solutions",
+            "class_description": "Centers on decluttering strategies and efficient storage techniques. Topics include choosing effective shelving, labeling systems, closet organization, and optimizing limited space. The aim is to reduce mess, keep belongings accessible, and maintain a tidy living environment through thoughtful arrangement and regular habits.",
+            "index": 6
+        },
+        {
+            "class_name": "Gardening: Soil & Fertilization",
+            "class_description": "Covers soil preparation and nutrient management for healthier plant growth. Topics include pH balancing, composting, mulching, and selecting appropriate fertilizers (organic or mineral). Advice emphasizes sustainable practices, improving soil structure, and tailoring fertilization to different plant needs for robust, long-term garden health.",
+            "index": 7
+        },
+        {
+            "class_name": "Gardening: Planting & General Care",
+            "class_description": "Deals with sowing seeds or bedding plants, watering, pruning, and seasonal plant maintenance. Applicable to vegetables, herbs, and ornamental flowers, it covers correct planting times, transplanting, and light or moisture requirements. The focus lies in daily and seasonal care routines to keep garden greenery thriving.",
+            "index": 8
+        },
+        {
+            "class_name": "Gardening: Pest & Disease Management",
+            "class_description": "Focuses on preventing, identifying, and treating harmful garden insects or plant diseases. It includes both organic and chemical methods, such as physical barriers, beneficial insects, and approved pesticides. Emphasis is on responsible, integrated approaches that protect plants without posing undue risks to the environment.",
+            "index": 9
+        },
+        {
+            "class_name": "Fruit & Berry Cultivation",
+            "class_description": "Concentrates on growing fruit-bearing trees and berry-producing shrubs, such as apples, strawberries, raspberries, currants, or blackberries. Guidance covers fertilization, pruning, pollination requirements, disease or pest control, and seasonal care. The objective is to ensure a fruitful harvest and maintain healthy perennial plants.",
+            "index": 10
+        },
+        {
+            "class_name": "Outdoor Landscaping & Mulching",
+            "class_description": "Addresses the design, care, and maintenance of outdoor areas, including lawns, hedges, ornamental trees, and mulch application. Topics cover weed control, watering techniques, edging, and protecting your yard through seasonal changes. It's oriented toward improving both the functionality and aesthetic appeal of gardens and landscapes.",
+            "index": 11
+        },
+        {
+            "class_name": "Eco-Friendly & Sustainable Practices",
+            "class_description": "Highlights environmentally conscious approaches to home and garden care. Topics include water conservation, eco-friendly cleaning products, composting, and recycling or reusing materials. The focus is on reducing waste, conserving energy, and preserving biodiversity. It encourages adopting greener habits that support a healthier environment at home.",
+            "index": 12
+        },
+        {
+            "class_name": "Household Safety & Security",
+            "class_description": "Covers methods to keep the home environment safe and secure. Includes childproofing, fire prevention, handling toxic substances (like asbestos), and installing reliable locks or alarm systems. Guidance focuses on identifying potential hazards, mitigating risks, and maintaining secure living conditions for all household members.",
+            "index": 13
+        },
+        {
+            "class_name": "Real Estate & Tenancy",
+            "class_description": "Deals with issues related to property ownership or rental, including landlord-tenant obligations, dispute resolution, lease terms, maintenance responsibilities, and housing inspections. The emphasis is on understanding rights and duties, effective communication, and abiding by local regulations to foster a fair, functional living arrangement.",
+            "index": 14
+        },
+        {
+            "class_name": "Household Pets & Animal Care",
+            "class_description": "Focuses on caring for animals within the home, whether traditional pets or rescue wildlife. Topics include habitat setup, feeding schedules, grooming, and methods to maintain cleanliness. Also addresses how to minimize pet-related damage, ensure proper hygiene, and keep both animals and household members comfortable and safe.",
+            "index": 15
+        },
+        {
+            "class_name": "Household Management & Lifestyle",
+            "class_description": "Encompasses day-to-day household routines, administrative tasks, and service-related interactions. Topics include tipping etiquette for cleaning services, scheduling or coordinating home appointments, preparing emergency kits, updating utilities or addresses during a move, and handling neighbor relations. The focus is on practical, efficient, and organized home life.",
+            "index": 16
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 17
+        }
+    ]
+}

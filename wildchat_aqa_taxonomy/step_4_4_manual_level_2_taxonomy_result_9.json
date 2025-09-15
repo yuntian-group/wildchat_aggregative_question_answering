@@ -1,0 +1,129 @@
+{
+    "classes": [
+        {
+            "class_name": "Anxiety, Panic & Phobias",
+            "class_description": "Addresses excessive worry, intense fear, or panic that disrupts daily life. Symptoms can include persistent nervousness, avoidance of specific objects or situations, and panic attacks characterized by rapid heartbeat or dizziness. Emphasizes psychological triggers, possible biological factors, and treatments such as cognitive-behavioral therapy, exposure therapy, and relaxation techniques to help individuals manage anxiety effectively and build resilience.",
+            "index": 0
+        },
+        {
+            "class_name": "Mood Disorders (Depression & Bipolar)",
+            "class_description": "Encompasses prolonged sadness, hopelessness, or drastic mood swings seen in major depression or bipolar disorders. Symptoms can involve feelings of worthlessness, fatigue, loss of interest in regular activities, or impulsive elevated states. Treatment options include talk therapy, medication, structured routines, and social support to help stabilize moods, improve coping skills, and enhance daily functioning.",
+            "index": 1
+        },
+        {
+            "class_name": "Trauma & PTSD",
+            "class_description": "Focuses on psychological distress following deeply upsetting or life-threatening events such as abuse, accidents, or warfare. Individuals may experience flashbacks, nightmares, heightened startle responses, or emotional numbness. Highlights trauma-informed care, including EMDR and cognitive processing therapy, to process memories, reduce fear responses, and restore emotional safety and trust.",
+            "index": 2
+        },
+        {
+            "class_name": "Personality Disorders",
+            "class_description": "Examines enduring, inflexible patterns of behavior and thought that disrupt self-image, mood regulation, and relationships. Conditions may include borderline, narcissistic, or antisocial traits leading to instability or interpersonal conflict. Treatment often involves dialectical behavior therapy, mentalization, and consistent therapeutic support to develop healthier coping strategies and improve relationship dynamics.",
+            "index": 3
+        },
+        {
+            "class_name": "Neurodevelopmental Disorders (ADHD, Autism, etc.)",
+            "class_description": "Covers conditions originating in childhood that affect attention, communication, or social interaction, such as ADHD or autism spectrum disorders. Symptoms may include impulsivity, social withdrawal, or difficulties focusing. Emphasizes early screening, specialized therapy, education plans, and family support to foster cognitive, emotional, and social development.",
+            "index": 4
+        },
+        {
+            "class_name": "Obsessive & Compulsive Disorders",
+            "class_description": "Highlights intrusive, repetitive thoughts (obsessions) and the behaviors (compulsions) performed to quell these anxieties. Common examples include checking, cleaning, or counting rituals. Emphasizes treatments like Exposure and Response Prevention (ERP), cognitive-behavioral therapy, and sometimes medication to help individuals resist compulsions and reduce obsessive fears.",
+            "index": 5
+        },
+        {
+            "class_name": "Dissociative Disorders & Maladaptive Daydreaming",
+            "class_description": "Deals with disruptions in self-awareness, identity, or reality perception, including depersonalization, dissociative fugue, and excessive daydreaming that disrupts normal life. People may feel detached from their bodies or immersed in fantasy worlds. Stresses specialized therapy, grounding exercises, and sometimes pharmacological support to decrease dissociative symptoms and encourage emotional stability.",
+            "index": 6
+        },
+        {
+            "class_name": "Schizophrenia & Psychotic Symptoms",
+            "class_description": "Focuses on conditions involving hallucinations, delusions, or severely disorganized thinking. Individuals might hold paranoid beliefs or perceive unreal sensations. Highlights usage of antipsychotic medications, holistic support, and psychoeducation to maintain treatment adherence, foster independence, and enhance coping abilities in everyday situations.",
+            "index": 7
+        },
+        {
+            "class_name": "Relationship & Interpersonal Challenges",
+            "class_description": "Explores difficulties in personal or professional connections, including trust issues, conflict, or unhealthy boundaries. Examines codependency or communication breakdowns that cause emotional strain. Encourages couples or family therapy, conflict resolution skills, and healthy communication strategies to promote supportive and respectful relationships.",
+            "index": 8
+        },
+        {
+            "class_name": "Abuse, Violence & Bullying",
+            "class_description": "Covers maltreatment through physical, emotional, or psychological harm in settings like home, school, or workplace. Individuals may experience fear, trauma, and loss of self-worth. Emphasizes creating safety plans, professional counseling, and community resources to restore confidence, ensure protection, and support recovery for survivors.",
+            "index": 9
+        },
+        {
+            "class_name": "Sexual Orientation, Gender & Sexual Behaviors",
+            "class_description": "Addresses diverse sexual identities, gender expressions, and behaviors such as fetishes or kinks. Covers issues like gender dysphoria, stigma, or confusion around personal preferences. Encourages nonjudgmental exploration in therapy, open communication, and respect for boundaries to maintain emotional well-being and healthy relationships.",
+            "index": 10
+        },
+        {
+            "class_name": "Self-esteem & Self-sabotage",
+            "class_description": "Focuses on negative self-image, self-criticism, or behaviors that undermine personal success and well-being. Individuals may battle feelings of unworthiness, guilt, or destructive habits that impede growth. Stresses cognitive restructuring, mindfulness, and incremental goal-setting to bolster self-confidence, overcome self-defeating patterns, and encourage healthy self-worth.",
+            "index": 11
+        },
+        {
+            "class_name": "Stress, Coping Strategies & Resilience",
+            "class_description": "Examines the impact of chronic stress at work, school, or home and its toll on emotional resources. Symptoms may include irritability, fatigue, or difficulty concentrating. Stresses time management, relaxation methods like meditation, and strong social support to develop resilience and sustainable coping techniques in daily life.",
+            "index": 12
+        },
+        {
+            "class_name": "Sleep & Dream Analysis",
+            "class_description": "Addresses insomnia, recurring nightmares, and dream disturbances that affect emotional health. Explores how stress or unresolved conflicts contribute to sleep issues. Encourages improved sleep hygiene, potential therapy for anxiety or trauma, and dream work to uncover hidden concerns and foster restorative rest.",
+            "index": 13
+        },
+        {
+            "class_name": "Child & Adolescent Mental Health",
+            "class_description": "Covers emotional, behavioral, or developmental issues in children and teenagers, including mood fluctuations, bullying, or identity confusion. Highlights the importance of early intervention, supportive counseling, and family involvement in nurturing healthy coping strategies, self-esteem, and social skills throughout youth.",
+            "index": 14
+        },
+        {
+            "class_name": "Medication & Pharmacological Discussions",
+            "class_description": "Discusses the role of prescribed and over-the-counter medications, along with herbal supplements, in managing mental health. Topics include antidepressants, anti-anxiety meds, sedatives, or valerian. Emphasizes professional diagnosis, safe dosing, side effects, and combining medication with therapy for optimal mental health outcomes.",
+            "index": 15
+        },
+        {
+            "class_name": "Therapy & Counseling Methods",
+            "class_description": "Highlights various psychotherapeutic approaches\u2014cognitive-behavioral therapy, hypnotherapy, person-centered methods\u2014for addressing mental health challenges. Reviews therapy goals, ethical guidelines, and the importance of trust between client and therapist. Encourages active participation, tailored treatment plans, and consistent follow-up to facilitate meaningful emotional and behavioral changes.",
+            "index": 16
+        },
+        {
+            "class_name": "Psychological Theories & Historical Perspectives",
+            "class_description": "Covers major schools of thought such as psychoanalysis, behaviorism, humanistic psychology, and cognitive biases, as well as influential figures like Freud, Rogers, or Maslow. Examines how these theories shaped current diagnostic and therapeutic practices. Encourages critical examination of historical context, empirical support, and real-world applications in mental health.",
+            "index": 17
+        },
+        {
+            "class_name": "Emotional Support for Crises & Suicidal Ideation",
+            "class_description": "Focuses on individuals in severe emotional distress or expressing suicidal thoughts. Symptoms can include hopelessness, self-harm impulses, and plans for suicide. Emphasizes urgent intervention through crisis hotlines, professional care, and safety plans. Encourages building supportive networks, close monitoring, and ongoing therapy to cultivate hope and uphold life-preserving actions.",
+            "index": 18
+        },
+        {
+            "class_name": "Social & Cultural Factors in Mental Health",
+            "class_description": "Examines how cultural beliefs, social stigma, socioeconomic challenges, or communal stressors influence mental well-being. Addresses topics like discrimination, collective trauma, and inequity in healthcare access. Encourages culturally competent care, policy advocacy, and community-based interventions to reduce barriers and improve mental health outcomes across diverse populations.",
+            "index": 19
+        },
+        {
+            "class_name": "Communication Skills & Empathy",
+            "class_description": "Highlights active listening, emotional validation, and clarity in dialogue to reduce misunderstandings. Encourages recognizing individual perspectives and responding with compassion. Stresses the importance of respectful exchanges in personal or professional contexts to enhance trust, mutual understanding, and strong interpersonal relationships.",
+            "index": 20
+        },
+        {
+            "class_name": "Addiction & Substance Use",
+            "class_description": "Addresses problematic use of alcohol, drugs, or other compulsive behaviors such as gambling or pornography. Examines triggers, withdrawal symptoms, and negative impacts on health and relationships. Emphasizes behavioral therapies, support groups, and relapse prevention strategies to tackle the underlying causes and promote long-term recovery.",
+            "index": 21
+        },
+        {
+            "class_name": "Eating & Body Image Disorders",
+            "class_description": "Deals with conditions like anorexia, bulimia, binge eating, or persistent dissatisfaction with one\u2019s body. Symptoms can include restrictive eating, purging, or distorted self-perception. Stresses an interdisciplinary approach using nutritional guidance, psychotherapy, and self-acceptance strategies to restore healthy eating patterns and reduce body-related distress.",
+            "index": 22
+        },
+        {
+            "class_name": "Grief & Loss",
+            "class_description": "Addresses emotional turmoil following death, breakup, or similar significant life changes. Individuals may experience anger, guilt, yearning, or numbness. Emphasizes compassionate counseling, support groups, and self-care techniques to work through the grieving process, honor the loss, and eventually find renewed hope or purpose.",
+            "index": 23
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 24
+        }
+    ]
+}

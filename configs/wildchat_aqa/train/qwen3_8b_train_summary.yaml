@@ -1,0 +1,33 @@
+model:
+  model_name: Qwen/Qwen3-8B
+  attn_implementation: flash_attention_2
+  device: cuda
+data:
+  train:
+    data_path: dataset/wildchat_aqa
+    summary: true
+train:
+  learning_rate: 1.0e-05
+  num_train_epochs: 1
+  do_train: true
+  per_device_eval_batch_size: 1
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 1
+  optim: adamw_torch_fused
+  report_to: wandb
+  remove_unused_columns: false
+  bf16: true
+  label_names:
+  - labels
+  save_strategy: epoch
+  save_total_limit: 2
+  save_only_model: true
+  logging_steps: 10
+  dataloader_num_workers: 4
+  eval_on_start: false
+  dataloader_prefetch_factor: 2
+  include_inputs_for_metrics: true
+  predict_with_generate: false
+  use_liger_kernel: true
+  gradient_checkpointing: true
+rag_config: {}

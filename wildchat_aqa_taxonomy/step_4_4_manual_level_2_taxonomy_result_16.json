@@ -1,0 +1,74 @@
+{
+    "classes": [
+        {
+            "class_name": "Extended Narrative Prose",
+            "class_description": "Long-form narratives written in continuous prose that develop intricate plots, rich characters, and detailed settings. This category includes cohesive stories and detailed chapters that emphasize narrative structure, character development, and literary techniques, without being primarily dialogue-based.",
+            "index": 0
+        },
+        {
+            "class_name": "Dialogue & Scripted Scenes",
+            "class_description": "Works structured primarily as dialogues or scripts focusing on back-and-forth character interactions and scene direction. These texts present conversation-driven narratives, scripted episodes, or screenplay-like formats without detailed narrative exposition.",
+            "index": 1
+        },
+        {
+            "class_name": "Fanfiction & Universe Crossovers",
+            "class_description": "Stories that reimagine established characters or mix elements from different universes. This category includes narratives that blend canonical features with creative reinterpretations, alternate timelines, and crossovers while paying homage to the original source material.",
+            "index": 2
+        },
+        {
+            "class_name": "Humorous & Satirical Narratives",
+            "class_description": "Comedic texts that use parody, irony, and absurd scenarios for humorous effect. These works deliberately exaggerate situations, character traits, or plot tropes to entertain and often include satirical commentary on familiar subjects.",
+            "index": 3
+        },
+        {
+            "class_name": "Fictional News & Media Formats",
+            "class_description": "Texts presented as news reports, blog posts, press releases, or media commentary. This category emulates journalistic styles to describe fictional events, cultural phenomena, or creative reinterpretations of real-world media layouts.",
+            "index": 4
+        },
+        {
+            "class_name": "Sports & Competition Narratives",
+            "class_description": "Dramatic accounts and imaginative depictions of sporting events or competitive scenarios. These texts focus on game dynamics, rivalries, and athletic contests, providing creative narratives centered on sports and competitive challenges.",
+            "index": 5
+        },
+        {
+            "class_name": "World-Building & Adventure Narratives",
+            "class_description": "Stories that emphasize the creation of original universes, settings, and adventurous plot arcs. This category focuses on elaborate world-building, high fantasy, dystopian, or action-adventure elements where the setting plays a central role in the narrative.",
+            "index": 6
+        },
+        {
+            "class_name": "Erotic & Sensual Narratives",
+            "class_description": "Explicit or mature works that detail intimate relationships, sensual encounters, and erotic themes. These narratives explore both emotional and physical dimensions of passion with emphasis on character desire and mature content.",
+            "index": 7
+        },
+        {
+            "class_name": "Transformation & Identity Narratives",
+            "class_description": "Stories centered on personal metamorphosis, role reversals, or journeys of self-discovery. This category covers narratives that explore dramatic shifts in character identity, transformative experiences, and significant changes in personality or status.",
+            "index": 8
+        },
+        {
+            "class_name": "Poetic & Lyric Composition",
+            "class_description": "Structured texts written in verse, including poems and song lyrics. This category highlights rhythmic language, vivid imagery, and artistic expression to evoke emotions and deliver creative, concise messages.",
+            "index": 9
+        },
+        {
+            "class_name": "Creative Naming & Prompt Generation",
+            "class_description": "Brief creative exercises such as generating names, slogans, lists, or writing prompts. These texts serve as sparks for broader storytelling projects by offering concise, imaginative ideas for further narrative development.",
+            "index": 10
+        },
+        {
+            "class_name": "Interactive & Roleplaying Narratives",
+            "class_description": "Fiction that incorporates interactive elements like choose-your-own-adventure paths or roleplaying scenarios. This category engages readers with immersive, decision-based storytelling that emphasizes participant involvement in dynamic narrative outcomes.",
+            "index": 11
+        },
+        {
+            "class_name": "Character Profiles & Descriptions",
+            "class_description": "Works focused on detailed depictions of characters, including physical traits, personality, and backgrounds. This category covers character studies, bios, and in-depth profiles that center on designing or exploring individual identities without a full narrative plot.",
+            "index": 12
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 13
+        }
+    ]
+}

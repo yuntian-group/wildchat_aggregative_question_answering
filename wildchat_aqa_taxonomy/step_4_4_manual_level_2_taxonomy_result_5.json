@@ -1,0 +1,104 @@
+{
+    "classes": [
+        {
+            "class_name": "Memory, Study, and Exam Strategies",
+            "class_description": "Focuses on evidence-based methods for memorizing material, developing study routines, and excelling in exams. Topics include mnemonic devices, study schedules, test-taking tips, and note management to boost recall and reduce stress. Learners can optimize their revision process and enhance performance through structured practice and reflective techniques.",
+            "index": 0
+        },
+        {
+            "class_name": "Academic Research, Methods, and Presentation",
+            "class_description": "Covers the research cycle from formulating hypotheses to presenting findings. Encompasses literature searches, data collection methods (qualitative or quantitative), and proper organization of results for publication or academic conferences. Attention is given to citation styles, clear argumentation, and visual presentation tools to ensure rigorous scholarly communication.",
+            "index": 1
+        },
+        {
+            "class_name": "Curriculum and Course Development",
+            "class_description": "Explores designing and organizing educational programs aligned with learning outcomes. Educators learn to structure lessons, choose relevant content, and devise credible assessments that measure student progress. This category also addresses curriculum mapping, resource selection, and the iterative revision process to keep courses effective and engaging.",
+            "index": 2
+        },
+        {
+            "class_name": "University Admissions and Scholarship Guidance",
+            "class_description": "Offers direction for individuals seeking admission to undergraduate, graduate, or professional programs. Covers personal statement writing, assembling application documents, selecting referees, and meeting deadlines. Emphasizes strategies for scholarships, funding opportunities, and how to tailor applications to align with institutional expectations.",
+            "index": 3
+        },
+        {
+            "class_name": "Teaching Strategies and Pedagogical Tools",
+            "class_description": "Focuses on instructional design and techniques that enhance student engagement. Highlights collaborative learning projects, interactive methods, and classroom technologies to cater to various learning styles. Educators also learn how to plan differentiated instruction and evaluate teaching effectiveness for continuous improvement.",
+            "index": 4
+        },
+        {
+            "class_name": "Language Learning and Translation",
+            "class_description": "Discusses best practices for acquiring new languages and translating texts accurately. Topics include vocabulary-building, grammar drills, listening and speaking exercises, and comprehension strategies. Emphasizes cultural nuances and context to maintain authenticity and precision in both learning a language and rendering translations.",
+            "index": 5
+        },
+        {
+            "class_name": "Parental Engagement and Child Education",
+            "class_description": "Examines the role of parents or guardians in supporting children\u2019s academic and emotional growth. Offers tips on creating a conducive study environment, coordinating with teachers, and addressing behavioral challenges. Encourages consistent motivation, positive reinforcement, and clear goal-setting to foster a child\u2019s lifelong learning habits.",
+            "index": 6
+        },
+        {
+            "class_name": "Professional and Vocational Training",
+            "class_description": "Centers on practical, job-focused education and workforce preparation. Includes certifications, apprenticeships, and skill-based programs that align with industry standards. Provides pathways for career advancement, specialized training, and continuous professional development across fields such as healthcare, finance, and information technology.",
+            "index": 7
+        },
+        {
+            "class_name": "Academic Ethics and Publication Guidelines",
+            "class_description": "Covers the ethical framework vital to scholarly work, including citation integrity, rigorous peer review, and responsible data usage. Emphasizes proper acknowledgment of sources, transparency in research findings, and adherence to institutional or journal standards. Encourages academic honesty to uphold the credibility of educational and research endeavors.",
+            "index": 8
+        },
+        {
+            "class_name": "Health and Medical Education",
+            "class_description": "Addresses learning and teaching in healthcare-related fields. Topics range from basic biomedical concepts to clinical competencies and public health awareness. Emphasizes evidence-based practice, patient safety, and continual knowledge updates, ensuring learners gain the skills and understanding necessary for effective medical or allied health roles.",
+            "index": 9
+        },
+        {
+            "class_name": "Technology and AI Integration in Education",
+            "class_description": "Explores modern digital solutions that transform teaching and learning experiences. Encompasses language-learning apps, virtual classrooms, automated assessments, and AI-driven tutoring systems. Educators learn to harness data analytics, personalize instruction, and keep pace with innovative technologies to enhance student engagement and academic outcomes.",
+            "index": 10
+        },
+        {
+            "class_name": "Special Education and Inclusive Learning",
+            "class_description": "Focuses on strategies and resources enabling all students, regardless of ability, to access quality education. Addresses legal frameworks, individualized instruction plans, and assistive technologies. Adaptations for diverse physical, cognitive, and social-emotional needs help foster equitable and meaningful participation in the learning environment.",
+            "index": 11
+        },
+        {
+            "class_name": "Educational Policy and Leadership",
+            "class_description": "Examines the decision-making and administrative aspects of education systems. Involves policy formulation, resource allocation, and leadership practices that impact schooling at various levels. By understanding regulations, governance structures, and strategic planning, education leaders can implement meaningful reforms and guide schools toward excellence.",
+            "index": 12
+        },
+        {
+            "class_name": "Environmental and Social Education",
+            "class_description": "Highlights how to integrate environmental awareness and social responsibility into the curriculum. Focuses on topics like sustainability, climate change, community cohesion, and cultural awareness. Encourages project-based learning that connects students to real-world issues, inspiring them to become conscientious, active members of society.",
+            "index": 13
+        },
+        {
+            "class_name": "Early Childhood Education and Development",
+            "class_description": "Targets instructional methods and developmental milestones for preschoolers and young learners. Covers foundational literacy, numeracy, and social skills through play-based and exploratory activities. Educators learn to create nurturing, inclusive environments that foster creativity, emotional well-being, and readiness for ongoing academic success.",
+            "index": 14
+        },
+        {
+            "class_name": "Creative Arts and Literature in Education",
+            "class_description": "Emphasizes using artistic and literary forms to enrich teaching and stimulate critical thought. Students scrutinize artworks, engage in creative writing, or analyze theatrical and cinematic pieces. Encourages cultural appreciation, interpretive skills, and expressive abilities as essential elements of a holistic educational experience.",
+            "index": 15
+        },
+        {
+            "class_name": "STEM and Technical Education",
+            "class_description": "Covers science, technology, engineering, and mathematics instruction, as well as related technical fields. Encourages experimental approaches, programming skills, and hands-on design projects that cultivate problem-solving and innovation. Prepares learners for advanced research or tech-driven industries through analytical, quantitative, and computational proficiency.",
+            "index": 16
+        },
+        {
+            "class_name": "Classroom Management and Student Engagement",
+            "class_description": "Addresses strategies to maintain an orderly, focused, and motivating learning environment. Topics include setting behavioral expectations, encouraging participation, and resolving conflicts. Effective relational approaches and structured routines help teachers optimize classroom time and foster a productive atmosphere for all learners.",
+            "index": 17
+        },
+        {
+            "class_name": "Socio-Emotional Learning and Wellbeing",
+            "class_description": "Centers on developing emotional intelligence, resilience, and interpersonal skills within school settings. Includes conflict resolution, empathy-building exercises, and promoting a positive self-image among students. Supports a balanced approach that values student mental health and encourages healthy relationships alongside academic achievements.",
+            "index": 18
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 19
+        }
+    ]
+}

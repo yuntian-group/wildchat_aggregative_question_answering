@@ -1,0 +1,150 @@
+{
+    "classes": [
+        {
+            "class_name": "Software, Programming and Computer Science",
+            "class_description": "Covers all computer science related topics. Encompasses coding, software architecture, software engineering, frameworks, debugging, version control, data structure, algorithms, ui, ux, ai and machine learning algorithms, computer network, cyber-security, computer hardware, computer architecture, data science, programming in game development, cloud computing, software technical troubleshooting, and related tools needed to develop or maintain computer programs.",
+            "index": 0
+        },
+        {
+            "class_name": "Science, Mathematics and Logical Reasoning",
+            "class_description": "Addresses math calculations, proofs, applied and theoretical math. And natural science including physics, chemistry, biology, earth science, geograhy and geology, astronomy, material science, logical reasoning and other science fields",
+            "index": 1
+        },
+        {
+            "class_name": "Technology, Engineering and Industry",
+            "class_description": "Covers technology trends, gadgets, general dicussion about technology concepts such as augmented reality (AR), virtual reality (VR), metaverse, blockchain, renewable energy and quantum computing, technology products and other technology concepts. Also discuss engineering principles, hardware design, electronics, robotics, mechanical engineering, civil engineering, aerospace engineering, automation and other technological or industrial topics.",
+            "index": 2
+        },
+        {
+            "class_name": "Art and Design",
+            "class_description": "Focuses on visual artistic creation and design principles, including traditional and digital art, illustration, painting, drawing, visual composition, color theory, typography, visual branding, pattern design, aesthetic principles and artist. Covers both practical techniques and theoretical concepts in creating visual artwork and designs that communicate ideas or emotions.",
+            "index": 3
+        },
+        {
+            "class_name": "Medicine and Health",
+            "class_description": "Deals with dieases, medical conditions, healthcare practices, treatments, preventive measures, and general physical wellness strategies.",
+            "index": 4
+        },
+        {
+            "class_name": "Academic Resource, Education and Learning",
+            "class_description": "Covers principle of education, school-related guidance, exam preparation, research methods, teaching strategies, curriculum development, admissions, learning approach or stragtegies, and other scholarly pursuits.",
+            "index": 5
+        },
+        {
+            "class_name": "Business, Commerce and Finance",
+            "class_description": "Covers business operations including customer service, sales, shipping, refunds, entrepreneurship, (digital) marketing, investments, corporate structures, economics, management, and financial decision-making.",
+            "index": 6
+        },
+        {
+            "class_name": "History and Culture",
+            "class_description": "Focus primary on *non-ficiton major* historical events, figures, cultural practices, traditions, customs, and the impact of past events on contemporary society. The history and culture should be the main focus.",
+            "index": 7
+        },
+        {
+            "class_name": "Social Issues, Politics and Governance",
+            "class_description": "Covers societal issues, social norms, political events, political parties, political figures, political theories, international or domestic politics, geopolitics, political events, governance systems, and significant policy developments shaping societies.",
+            "index": 8
+        },
+        {
+            "class_name": "Psychology, Mental Health and Emotional Support",
+            "class_description": "Addresses users' mental health issues, psychological conditions, therapy, counseling, emotional support, emotional well-being, and psychological theories.",
+            "index": 9
+        },
+        {
+            "class_name": "Philosophy and Ethics",
+            "class_description": "Engages with philosophical concepts, theory, ethical dilemmas, moral reasoning, and the study of knowledge, reality, and existence.",
+            "index": 10
+        },
+        {
+            "class_name": "Religion, Mythology and Spirituality",
+            "class_description": "Centers on religious beliefs, religious story, mythological stories, spiritual practices, rituals, and the study of divine or supernatural phenomena.",
+            "index": 11
+        },
+        {
+            "class_name": "Lifestyle and Hobbies",
+            "class_description": "Discusses personal interests, life-styple, fashion, hobbies, leisure activities, and lifestyle choices.",
+            "index": 12
+        },
+        {
+            "class_name":"Personal Advice and Support",
+            "class_description":"Focuses on requesting for advice and guidance on personal issues, personal growth and improvement, relationships, and life challenges.",
+            "index": 13
+        },
+        {
+            "class_name": "Linguistics, Language and Translation",
+            "class_description": "Focuses on grammar, vocabulary, linguistic nuances, and rephrasing, translating or paraphrasing texts across different languages and different styles.",
+            "index": 14
+        },
+        {
+            "class_name": "Literature and Book Analysis",
+            "class_description": "Discusses non-fictional or non-hypothetical novels, poetry, esssays, and other literary forms, discussing themes, characters, and critical interpretations of literature works and books.",
+            "index": 15
+        },
+
+        {
+            "class_name": "Entertainment, Games, and Media",
+            "class_description": "Discusses movies, TV shows, music, celebrity news, pop culture references, mangas, comics, animes, and entertainment media-related commentary or reviews. Production of various kinds of entertainment and media. Also includes topic about all format of discussion of games including video games, board games, card games, tabletop RPGs, puzzle games, esports, gaming platforms, characther, plot in games, and gaming culture.",
+            "index": 17
+        },
+        {
+            "class_name": "Sports and Athletics",
+            "class_description": "Focus on a wide variety of sports including basketball, football, soccer, wrestling, boxing, motor racing, and other form of sports. Also related to athletic competitions, sports strategies, training routines, coaching, sports culture, fitness, and discussions of team or player performances.",
+            "index": 18
+        },
+        {
+            "class_name": "Erotic, Explicit and Inappropriate Content",
+            "class_description": "Focus on requests of very explicit sexual content, erotic roleplay, violence, attacking, self-hurt, unethical, offensive, illegal, scamming, harmful idenity hack requested by user or generated by chatbot, and other inappropriate discussions.",
+            "index": 19
+        },
+        {
+            "class_name": "Law, Regulation and Criminal Justice",
+            "class_description": "Involves legal disputes, regulation, legislation, criminal case, criminal activity, court cases, law enforcement processes, and justice or regulatory system matters.",
+            "index": 20
+        },
+        {
+            "class_name": "Home and Household",
+            "class_description": "Discusses home improvement, interior design, gardening, cleaning tips, household management, maintaince, and practical advice for domestic living.",
+            "index": 21
+        },
+        {
+            "class_name": "Food, Cooking and Nutrition",
+            "class_description": "Discusses recipes, food recommendation, culinary techniques, ingredient selection, meal preparation, practical cooking tips or kitchen advice, and nutritional information.",
+            "index": 22
+        },
+        {
+            "class_name": "Professional Development and Career Advice",
+            "class_description": "Discuss guidance on career choices, job applications, interview tips, workplace dynamics, salaries, professional development, and employment-related queries.",
+            "index": 23
+        },
+        {
+            "class_name": "Environment, Ecology and Sustainability",
+            "class_description": "Addresses ecological issues, climate change, conservation efforts, sustainable practices, and environmental policies.",
+            "index": 24
+        },
+        {
+            "class_name": "Interactive Activities with AI Chatbots",
+            "class_description": "Covers request for, interactive gameplay with ai, identity change of ai chatbots, request for interactive roleplay, involve ai chatbot in discussion, chatbot testing and other interactions focus on the chatbot itself. Does NOT include generic conversation examples, casual greetings, or content that merely happens to involve dialogue formats.",
+            "index": 25
+        },
+        {
+            "class_name": "Travel and Tourism",
+            "class_description": "Discusses travel destinations, tourism activities, travel tips, and experiences related to exploring new places.",
+            "index": 26
+        },
+        {
+            "class_name": "General Digital Support",
+            "class_description": "Discuss the AI’s abilities, limitations, functionality, task requests, and answering general questions.",
+            "index": 27
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 28
+        },
+        {
+            "class_name": "Creative Writing and Fiction",
+            "class_description": "Covers the request of storytelling through text, including dialogue writing, naming, story architecture, fictional script writing, fictional scene creation, fictional sports game, fictional race, fictional news report, fictional universe crossover, continue a story and other long creative textual generation.Also focuses on narrative development, including plot structure, character design and development, narrative techniques, prose writing, scriptwriting (excluding visual direction), and literary devices.",
+            "index": 16
+        }
+    ]
+}

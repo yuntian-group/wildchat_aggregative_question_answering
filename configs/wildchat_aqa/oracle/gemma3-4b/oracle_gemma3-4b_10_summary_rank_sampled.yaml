@@ -1,0 +1,17 @@
+model_config:
+  name: google/gemma-3-4b-it
+  batch_size: 256
+  sampling_params:
+    n: 1
+    max_tokens: 2000
+    top_p: 0.95
+    top_k: 64
+    temperature: 1.0
+rag_config:
+  rag_type: mongodb_gt
+  data_path: dataset/wildchat_aqa_sampled_subset_with_embedding_and_gpt_generated_query
+  max_context_token_count: 127000
+  topk: 10
+  prompt_template_path: prompts/eval_wildchat_aqa_prompt_use_summary_rank.md
+  mongodb_host_name: localhost:27017
+  doc_field_name: document_summary

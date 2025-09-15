@@ -1,0 +1,139 @@
+{
+    "classes": [
+        {
+            "class_name": "Ancient Non-Classical Civilizations",
+            "class_description": "Focuses on historical societies outside Greco-Roman domains before around 600 CE, such as Mesopotamia, Indus Valley, Ancient Egypt, or early American cultures. It addresses their political structures, religious beliefs, social norms, and achievements in art and architecture prior to major foreign conquests or transformative intercultural contact.",
+            "index": 0
+        },
+        {
+            "class_name": "Classical Rome",
+            "class_description": "Centers on Rome from its early Republic to the imperial period\u2019s fall (6th century BCE\u20135th century CE). Explores Roman government, law, military structure, engineering feats like roads and aqueducts, and the expansion that shaped subsequent European developments. Notable figures include Julius Caesar, Cicero, and Augustus.",
+            "index": 1
+        },
+        {
+            "class_name": "Ancient Greece and Hellenic Culture",
+            "class_description": "Covers the Greek city-states (8th century BCE onward), the classical era, and the Hellenistic age after Alexander\u2019s conquests. Explores philosophy, drama, democracy, and the arts that profoundly influenced Western thought. Examines major thinkers (Plato, Aristotle), mythologies, and how Greek culture spread across the Mediterranean.",
+            "index": 2
+        },
+        {
+            "class_name": "Medieval Europe",
+            "class_description": "Addresses European history from the 5th to around the 15th century. Encompasses feudalism, the role of the Church, monarchic power struggles, Crusades, and the social fabric shaped by guilds and chivalry. Includes developments in Gothic architecture, town life, and the eventual transition toward the early modern era.",
+            "index": 3
+        },
+        {
+            "class_name": "Islamic and Middle Eastern Empires",
+            "class_description": "Examines the Islamic caliphates and neighboring Middle Eastern states from the 7th century onward. Studies governance, religious scholarship, art, science, and trade routes connecting Asia, Africa, and Europe. Highlights how Islamic jurisprudence, cultural exchange, and dynastic politics shaped regional and global history.",
+            "index": 4
+        },
+        {
+            "class_name": "Pre-Modern East Asia",
+            "class_description": "Focuses on China, Japan, Korea, and surrounding regions before the mid-19th century. Covers imperial dynasties, Confucian systems, the samurai structure in Japan, and cultural intersections. Addresses social hierarchies, technological developments like printing and porcelain, and the limited Western contact before large-scale modernization.",
+            "index": 5
+        },
+        {
+            "class_name": "Colonialism, Imperialism, and Independence",
+            "class_description": "Covers the era from 15th-century overseas expansions to decolonization in the mid-20th century. Includes European empires in Africa, the Americas, and Asia, exploring economic exploitation, missionary influence, and cultural conflict. Highlights independence movements, anticolonial rebellions, and the new states formed after colonial rule ended.",
+            "index": 6
+        },
+        {
+            "class_name": "Modern and Contemporary History (19th Century\u2013Present)",
+            "class_description": "Deals with global history from the 1800s to today, including industrial revolutions, urbanization, nation-state formation, and mass political movements. Addresses socioeconomic developments, changing class structures, and technological progress. Also covers cultural evolution, global conflicts, and the ongoing influence of modernization on daily life.",
+            "index": 7
+        },
+        {
+            "class_name": "Conflicts and Wars",
+            "class_description": "Focuses on armed engagements across history, from ancient battles to modern world wars. Analyzes causes, tactics, leadership figures, and aftermaths, including political realignments and cultural memory. Examines how warfare shaped national boundaries, alliances, and social transformations resulting from conflicts.",
+            "index": 8
+        },
+        {
+            "class_name": "Philosophy and Political Ideologies",
+            "class_description": "Discusses influential schools of thought and doctrines shaping societies, from ancient philosophy to modern ideologies like communism or fascism. Examines how ideas on ethics, power structures, and governance developed over time. Includes major thinkers\u2019 impact on laws, institutions, and cultural norms.",
+            "index": 9
+        },
+        {
+            "class_name": "Religion and Theology",
+            "class_description": "Explores major religious traditions and smaller sects, their scriptures, doctrines, and institutions. Investigates how faith communities grew, adapted, and influenced societies. Studies theological disputes, reforms, pilgrimages, and interfaith relations, showcasing the profound moral and cultural effects of religion worldwide.",
+            "index": 10
+        },
+        {
+            "class_name": "Traditions, Customs, and Rituals",
+            "class_description": "Examines cultural habits, celebrations, and practices that mark significant moments or uphold community identity. Addresses initiation rites, marriage customs, dietary traditions, funerary rituals, and festivals. Explores how these practices reflect cultural values and evolve with social, political, or economic shifts.",
+            "index": 11
+        },
+        {
+            "class_name": "Art, Architecture, and Heritage",
+            "class_description": "Studies important creative works, including painting, sculpture, music, and iconic buildings, across different eras. Emphasizes the cultural significance of monuments, the preservation of cultural heritage sites, and influential artistic movements. Explores how patronage, religion, and politics shape artistic expression and legacy.",
+            "index": 12
+        },
+        {
+            "class_name": "Exploration and Discoveries",
+            "class_description": "Focuses on expeditions and voyages aimed at trade, conquest, religious expansion, or scientific inquiry. Highlights navigational innovations, first-contact encounters, and the cultural exchange that resulted. Considers how these journeys altered political power structures and global perceptions from ancient sailors to modern explorers.",
+            "index": 13
+        },
+        {
+            "class_name": "Archaeology and Ancient Technologies",
+            "class_description": "Investigates the material remains of past societies, including engineering and technological inventions in ancient, prehistoric, or protohistoric contexts. Addresses excavation methods, artifact analysis, inscriptions, and settlement excavation. Explores how archaeological findings reshape our understanding of early innovations, daily life, and cultural developments.",
+            "index": 14
+        },
+        {
+            "class_name": "Social Hierarchies and Slavery",
+            "class_description": "Examines systems of stratification and bondage throughout history, from ancient castes to modern slavery. Explores the economic and legal frameworks supporting oppressive relationships, along with cultural narratives that justified them. Also covers rebellions, abolition movements, and shifts toward more equitable social structures.",
+            "index": 15
+        },
+        {
+            "class_name": "Civil Rights and Social Justice",
+            "class_description": "Investigates historical and ongoing efforts to secure equal treatment and legal protections for marginalized groups. Addresses legislation, protests, and prominent leaders who challenge discrimination and oppression. Examines cultural shifts, legal precedents, and social movements that influence broader inclusion and justice.",
+            "index": 16
+        },
+        {
+            "class_name": "Gender and Women\u2019s History",
+            "class_description": "Highlights women\u2019s roles, statuses, and achievements across various periods and cultures. Studies how gender norms, legal rights, and access to education have evolved. Explores influential female figures, pivotal feminist movements, and the ways societal perceptions of masculinity and femininity have transformed over time.",
+            "index": 17
+        },
+        {
+            "class_name": "Indigenous Peoples",
+            "class_description": "Focuses on the original inhabitants of a region, their cultural practices, social organization, and historical experiences. Explores the consequences of colonization, forced assimilation, and land displacement. Also highlights contemporary steps toward cultural revival, political autonomy, and the preservation of indigenous languages.",
+            "index": 18
+        },
+        {
+            "class_name": "Myths and Folklore",
+            "class_description": "Studies orally transmitted tales, epic stories, and traditional myths that shape communal identities. Includes creation myths, legendary heroes, and local folklore. Examines how these narratives adapt over time, reinforce cultural values, and influence literature, performance, and collective memory.",
+            "index": 19
+        },
+        {
+            "class_name": "Language and Literature",
+            "class_description": "Explores the evolution of linguistic systems, literary forms, and writing traditions. Covers influential texts, from ancient epics to modern novels, illustrating how language both reflects and shapes communal identity. Also examines cultural transmission through translation, printing technologies, and shifting linguistic norms.",
+            "index": 20
+        },
+        {
+            "class_name": "Science and Medicine",
+            "class_description": "Traces the development of scientific knowledge and healthcare practices across cultures. Highlights milestones in mathematics, astronomy, chemistry, and biology, as well as the evolution of medical theory and treatments. Studies how innovations in science and medicine affect wider societal structures and ethical considerations.",
+            "index": 21
+        },
+        {
+            "class_name": "Legal Systems and Codes",
+            "class_description": "Covers the foundations and transformations of laws from ancient edicts to modern constitutions. Investigates legal institutions, cultural notions of justice, and how codes reflect social values. Also considers judicial processes, landmark legal reforms, and the role of prominent jurists in shaping law.",
+            "index": 22
+        },
+        {
+            "class_name": "Diplomacy and Treaties",
+            "class_description": "Examines formal agreements, alliances, and negotiations between states or groups. Analyzes the political, cultural, and economic impacts of treaties, as well as the personalities and events driving diplomatic efforts. Considers how shifting power balances, war, and cross-cultural exchanges affect treaty outcomes.",
+            "index": 23
+        },
+        {
+            "class_name": "Sports and Leisure",
+            "class_description": "Focuses on organized athletic activities, public amusements, and pastimes across different cultures and periods. Highlights the role of social class, political influence, and technology in shaping sports events and facilities. Also explores how leisure pursuits reflect or reinforce cultural values and communal identity.",
+            "index": 24
+        },
+        {
+            "class_name": "Popular Culture and Mass Media",
+            "class_description": "Covers cultural products designed for broad audiences, including film, television, radio, music, internet media, and gaming. Studies the creation, distribution, and consumption of popular content. Analyzes how mass media shapes social attitudes, promotes cultural icons, and reflects broader historical change.",
+            "index": 25
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 26
+        }
+    ]
+}

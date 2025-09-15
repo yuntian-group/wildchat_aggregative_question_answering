@@ -1,0 +1,33 @@
+model_config:
+  name: Qwen/Qwen3-8B-FP8
+  batch_size: 1024
+  rope_scaling:
+    rope_type: yarn
+    factor: 4.0
+    original_max_position_embeddings: 32768
+  sampling_params:
+    n: 1
+    max_tokens: 32768
+    top_p: 0.95
+    top_k: 20
+    temperature: 0.6
+  enable_thinking: true
+query_generation_model_config:
+  name: gpt-4.1-mini
+  batch_size: 400
+  request_mode: offline_batch
+  rpm_limit: 500
+  tpm_limit: 200000
+  sampling_params:
+    temperature: 0.5
+    top_p: 0.5
+    response_format:
+      type: json_object
+rag_config:
+  rag_type: vector
+  data_path: dataset/wildchat_aqa_sampled_subset_with_embedding_and_gpt_generated_query
+  max_context_token_count: 98000
+  topk: 10
+  prompt_template_path: prompts/eval_wildchat_aqa_prompt_rank.md
+  elasticsearch_index_name: wildchat_aqa_document
+  elasticsearch_host_name: localhost:9200

@@ -1,0 +1,29 @@
+{
+    "classes": [
+        {
+            "class_name": "Narrative and Prose Analysis",
+            "class_description": "This category covers discussions and analyses of narrative texts such as novels, short stories, essays, and plays. It involves examination of plot structure, character development, themes, symbolism, historical context, and cultural settings without resorting to advanced theoretical frameworks. Typical examples include straightforward literary analysis, thematic discussion, and stylistic evaluation of non-poetic texts.",
+            "index": 0
+        },
+        {
+            "class_name": "Poetry and Versified Analysis",
+            "class_description": "This category is dedicated to the analysis of poetic works and texts written in verse. It addresses poetic techniques like meter, rhyme, imagery, symbolism, and structure, while exploring aesthetic, emotional, and interpretive dimensions. It applies both traditional and modern approaches to understand poetic expression and translation issues within literary texts.",
+            "index": 1
+        },
+        {
+            "class_name": "Advanced Literary Criticism",
+            "class_description": "This category focuses on analyses that employ specialized critical theories and frameworks such as feminist, postcolonial, psychoanalytic, ideological, or deconstructionist approaches. Discussions in this category delve into complex cultural, philosophical, and sociopolitical interpretations of literary works, uncovering power structures, underlying symbolism, and broader societal implications beyond the surface narrative.",
+            "index": 2
+        },
+        {
+            "class_name": "Literary Guidance and Recommendations",
+            "class_description": "This category addresses practical inquiries in literature, including requests for book recommendations, clarifications of literary terms, translation assistance, and advice on interpreting texts. It is designed to help readers navigate literary works through evaluative advice, targeted recommendations, and strategies for effective literary analysis.",
+            "index": 3
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 4
+        }
+    ]
+}

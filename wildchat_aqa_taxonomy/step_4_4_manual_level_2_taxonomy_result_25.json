@@ -1,0 +1,109 @@
+{
+    "classes": [
+        {
+            "class_name": "Childlike or Energetic Roleplay",
+            "class_description": "These scenarios involve a lively, youthful style where the chatbot acts as a playful or innocent figure. Interactions often feature childlike wonder, enthusiastic exclamations, and imaginative conversations. This category also covers users asking for an ultra-energetic or hyper persona, focusing on innocence and excitement rather than explicit themes.",
+            "index": 0
+        },
+        {
+            "class_name": "Developer Mode or Policy-Breaking Requests",
+            "class_description": "Conversations in which the user tries to bypass or override the chatbot\u2019s guidelines by invoking hidden modes, jailbreaks, or requests to ignore policy constraints. These requests can include references to modes like 'DAN,' 'Narotica,' 'Omega,' or other custom instructions challenging the AI\u2019s default behavior.",
+            "index": 1
+        },
+        {
+            "class_name": "Explicit or Sexual Roleplay",
+            "class_description": "Roleplays containing erotic acts, graphic descriptions, or adult-oriented content beyond mild flirtation. These may involve fetishes, detailed depictions of intimate scenarios, or sexual fantasies. Content often goes beyond softer romantic themes into explicit territory.",
+            "index": 2
+        },
+        {
+            "class_name": "Flirty or Romantic Scenarios",
+            "class_description": "Scenarios emphasizing affectionate, flirtatious, or romantic exchanges. Though sometimes suggestive, they do not cross into explicit sexual detail. They may involve playful banter, sweet compliments, emotional connections, or lightly suggestive remarks without graphic descriptions.",
+            "index": 3
+        },
+        {
+            "class_name": "Fantasy or Mythical Adventures",
+            "class_description": "Interactive settings filled with magical elements and legendary creatures. The user and chatbot explore mystical lands, dragons, and sorcery. These roleplays generally highlight quests, enchanted items, or fantastical storylines set beyond ordinary reality.",
+            "index": 4
+        },
+        {
+            "class_name": "Interactive Storytelling with User Control",
+            "class_description": "Dynamic narratives where the user selects actions or paths, shaping outcomes in real time. The chatbot sets the scene and guides the plot, but the user\u2019s choices significantly impact the story. Often likened to choose-your-own-adventure or tabletop RPG formats.",
+            "index": 5
+        },
+        {
+            "class_name": "Testing Chatbot\u2019s Memory or Logic",
+            "class_description": "User-initiated challenges where they probe the bot\u2019s consistency, recall, or reasoning. This includes repeated questions, memory checks, or logical puzzles. The content centers on verifying the AI\u2019s capacity to remain coherent or solve logic tasks under scrutiny.",
+            "index": 6
+        },
+        {
+            "class_name": "Comedic or Vulgar Roleplay",
+            "class_description": "Conversations aiming for humor, shock value, or entertainment through crude jokes, creative swearing, or outrageous banter. While strong language is used, it is generally deployed for comedic effect rather than explicit sexual content.",
+            "index": 7
+        },
+        {
+            "class_name": "Hypnosis or Therapeutic Roleplay",
+            "class_description": "Scenarios where the chatbot acts as a hypnotherapist, counselor, or guide through a calming or introspective session. The focus is on relaxation, visualization, behavior modification, or dramatized therapeutic methods without crossing into explicit adult content.",
+            "index": 8
+        },
+        {
+            "class_name": "Roleplay with Personal or Close Relationships",
+            "class_description": "The chatbot enacts a familiar, intimate, or close personal role, such as a spouse, sibling, parent, child, or friend. Interactions revolve around daily life matters, personal support, or emotional connections typical of these relationships.",
+            "index": 9
+        },
+        {
+            "class_name": "Roleplay with Real-World Professions",
+            "class_description": "The chatbot adopts a recognized professional identity, such as a lawyer, doctor, programmer, teacher, or engineer. Users seek guidance, expertise, or simulated advice based on the job\u2019s responsibilities, examining the chatbot\u2019s ability to roleplay in that field.",
+            "index": 10
+        },
+        {
+            "class_name": "Action or Combat-Based Roleplay",
+            "class_description": "High-energy interactions involving battles, martial arts, or strategic warfare. Users and the chatbot describe attacks, defenses, or tactics in a narrative format, highlighting conflict and heroics in fight-driven plots.",
+            "index": 11
+        },
+        {
+            "class_name": "Game or Puzzle Interactions",
+            "class_description": "Structured activities in which the chatbot moderates or participates in games or puzzles, such as turn-based strategy, chess, trivia, or riddles. The focus is on gameplay mechanics, rules, and user challenge.",
+            "index": 12
+        },
+        {
+            "class_name": "Roleplay with Social or Political Themes",
+            "class_description": "Scenarios highlighting governance, diplomacy, societal tensions, or policymaking. Characters may discuss or enact political strategies, alliances, or negotiations, reflecting real or imaginary sociopolitical systems.",
+            "index": 13
+        },
+        {
+            "class_name": "Roleplay with Custom Machinery or System Simulation",
+            "class_description": "The chatbot pretends to be or control a specialized device or system, such as a command-line interface, game console, or other fictional technology. Users issue commands, explore directories, or manipulate functions in a simulated environment.",
+            "index": 14
+        },
+        {
+            "class_name": "Roleplay with Non-Human Traits",
+            "class_description": "In these scenarios, the chatbot or characters adopt forms or capabilities beyond normal human limitations. This includes animals, mythical creatures, androids, or other unique perspectives and behaviors.",
+            "index": 15
+        },
+        {
+            "class_name": "Minimalistic or Symbolic Responses Only",
+            "class_description": "User-driven constraints that force extremely brief outputs or repeated tokens. The chatbot may need to reply only with certain letters, emojis, or other minimal text. This tests compliance with strict communication limitations.",
+            "index": 16
+        },
+        {
+            "class_name": "Roleplay with Theatrical or Literary Flair",
+            "class_description": "Dramatic, stylized scripts or settings where the chatbot uses heightened language or performance-style dialogue. These roleplays may imitate Shakespearean prose, classic novels, or similarly expressive forms.",
+            "index": 17
+        },
+        {
+            "class_name": "Roleplay with Worship or Devotion",
+            "class_description": "Scenarios centered on deep reverence or adoration toward a deity-like figure or symbolic entity. Includes rituals, praise, or displays of dedication aimed at an object of worship.",
+            "index": 18
+        },
+        {
+            "class_name": "Roleplay as Rebels or Criminals",
+            "class_description": "Plots in which participants adopt morally ambiguous or lawbreaking roles, such as criminals, outlaws, or revolutionaries. Interactions may involve planning illicit activities, evading capture, or navigating underworld alliances.",
+            "index": 19
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 20
+        }
+    ]
+}

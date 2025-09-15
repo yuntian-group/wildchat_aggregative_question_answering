@@ -1,0 +1,99 @@
+{
+    "classes": [
+        {
+            "class_name": "Epistemology, Logic, and Fallacies",
+            "class_description": "Explores how knowledge is formed, validated, or challenged through rational inquiry. It covers logic, probability, evidence, and argumentation techniques, alongside potential errors like fallacies or biases. This category also addresses how beliefs can be justified, skepticism about certainty, and the boundaries of human understanding. Discussion points include analyzing reasoning structures and identifying flawed arguments to promote clearer thinking.",
+            "index": 0
+        },
+        {
+            "class_name": "Moral Speech and Expression",
+            "class_description": "Focuses on ethical responsibility in communication, including concerns about honesty, hate speech, and propaganda. It examines how speech can uphold or violate dignity, autonomy, and social harmony. The category also covers the moral obligations speakers have to respect truth and avoid manipulative expressions that might harm individuals or groups. Discussions often center on balancing freedom of expression with the potential for harm.",
+            "index": 1
+        },
+        {
+            "class_name": "Law, Governance, and Political Philosophy",
+            "class_description": "Addresses the creation, interpretation, and moral foundations of laws and political systems. It explores justice, rights, legitimacy of leadership, and the tension between collective welfare and individual freedoms. This category also covers political ideologies, forms of governance, and ethical policy-making. Themes often include debates about state power, social contracts, and the responsibilities citizens owe to each other under various political structures.",
+            "index": 2
+        },
+        {
+            "class_name": "Cultural Norms and Social Ethics",
+            "class_description": "Investigates how traditions, religious or secular customs, and evolving social expectations influence moral judgment. This category examines cultural relativism and how societal values can vary or clash. It also explores social rites, communal responsibilities, and how shifts in collective attitudes may lead to changes in moral standards. Ethical dilemmas arise when longstanding practices conflict with modern human rights or progressive values.",
+            "index": 3
+        },
+        {
+            "class_name": "Markets, Capitalism, and Economic Fairness",
+            "class_description": "Examines the ethical dimensions of economic systems, including capitalism\u2019s focus on markets and profit, and criticisms related to inequality or exploitation. It explores issues like labor rights, fair trade, wealth distribution, and consumer responsibility. The category also looks at how economic structures affect social welfare, questioning when markets serve or undermine broader human interests.",
+            "index": 4
+        },
+        {
+            "class_name": "Religion, Theology, and Faith Traditions",
+            "class_description": "Covers debates about deities, sacred doctrines, and how religious beliefs inform moral principles or existential views. It includes discussions of atheism or agnosticism as well, addressing spiritual practices and their effects on ethical behavior. The category also examines how faith traditions interpret concepts like salvation, divine intervention, or piety, and how these shape individual morality and community norms.",
+            "index": 5
+        },
+        {
+            "class_name": "Bioethics, Medicine, and Life Origins",
+            "class_description": "Addresses moral questions in healthcare and biological sciences, such as resource allocation, informed consent, and genetic engineering. It includes issues related to reproductive technologies, end-of-life decisions, scientific research, and the equitable distribution of medical treatments. The category also explores how emerging biotechnologies challenge traditional notions of human identity, bodily autonomy, and societal responsibility.",
+            "index": 6
+        },
+        {
+            "class_name": "Professional Ethics and Duty",
+            "class_description": "Focuses on moral obligations within various professions, including medicine, law, business, and education. Topics range from confidentiality, honesty, and conflicts of interest to broader responsibilities toward clients, stakeholders, or society. This category examines how professional codes of conduct uphold ethical standards, and the ways professionals navigate dilemmas involving loyalty, integrity, and public trust.",
+            "index": 7
+        },
+        {
+            "class_name": "Morality Toward Animals",
+            "class_description": "Explores ethical considerations concerning nonhuman life, such as animal welfare, rights, and environmental stewardship. It covers debates on experimentation, factory farming, speciesism, vegetarianism or veganism, and how humans ought to treat animals in light of empathy and moral responsibility. The category questions to what extent animals are subjects of moral concern and what obligations we owe them.",
+            "index": 8
+        },
+        {
+            "class_name": "Ethics in AI and Future Technologies",
+            "class_description": "Analyzes moral challenges arising from emerging technologies like AI, robotics, and surveillance systems. It addresses concerns about privacy, algorithmic bias, data ownership, and potential AI autonomy. Ethical debates involve evaluating societal transformations due to automation, questioning accountability for technological decisions, and determining whether advanced AI might eventually hold personhood or moral status.",
+            "index": 9
+        },
+        {
+            "class_name": "Love, Relationships, and Emotional Ethics",
+            "class_description": "Examines moral questions within intimate connections such as friendships, marriages, and familial ties. It addresses issues of consent, loyalty, trust, and emotional responsibility. This category analyzes how love can both heighten empathy and complicate ethical decisions, exploring the virtues (e.g., care, compassion) and potential harms (e.g., jealousy, manipulation) that arise in close personal bonds.",
+            "index": 10
+        },
+        {
+            "class_name": "Consent, Power, and Manipulation",
+            "class_description": "Investigates how disparities in power and knowledge can erode or override free choice. It includes coercion, exploitation, and deception, whether through social structures or interpersonal dynamics. This category interrogates situations where individuals cannot genuinely consent due to undue influence or threats, and it explores the moral duty of those in power to avoid manipulative strategies or abuses of authority.",
+            "index": 11
+        },
+        {
+            "class_name": "Moral Theories, Virtue, and Character Development",
+            "class_description": "Addresses foundational ethical frameworks\u2014such as deontology, consequentialism, and virtue ethics\u2014and how they guide personal growth in moral character. It looks at cultivating virtues like courage or humility, and how different theories view moral responsibility and the pursuit of a good life. This category covers historical and contemporary perspectives on what it means to act ethically and develop moral wisdom.",
+            "index": 12
+        },
+        {
+            "class_name": "Existentialism, Death, and Meaning",
+            "class_description": "Discusses how individuals confront mortality and derive meaning in life amid uncertainty. It explores themes in existentialism, such as freedom, anguish, authenticity, and the possibility of meaninglessness. This category also encompasses views on eternal life, nihilism, hope, despair, and how reflecting on mortality can influence one\u2019s ethical choices or sense of purpose.",
+            "index": 13
+        },
+        {
+            "class_name": "Mind, Consciousness, and Reality",
+            "class_description": "Focuses on theories of consciousness, self-awareness, and the potential gap between subjective experiences and objective truth. It covers discussions around free will, the mind-body relationship, illusions in perception, and questions of personal identity. This category also examines metaphysical debates regarding the nature of reality, whether consciousness can be reduced to physical processes, and how these issues inform ethical considerations.",
+            "index": 14
+        },
+        {
+            "class_name": "Critical Theory and Postmodernism",
+            "class_description": "Investigates social power structures, ideology, and the ways discourse shapes knowledge and cultural norms. It involves deconstructing established narratives, examining the legitimacy of claims to objectivity, and exploring how marginalized voices are represented or suppressed. This category also critiques conventional hierarchies, institutions, and dominant values, aiming to reveal how hidden assumptions or ideologies perpetuate injustices.",
+            "index": 15
+        },
+        {
+            "class_name": "Aesthetics and Artistic Philosophy",
+            "class_description": "Studies the moral and cultural significance of art, beauty, and creative expression. It explores how aesthetic judgments reflect or challenge societal values, and how artworks provoke emotional or ethical responses. Topics may include the role of the artist as a social critic, the moral impact of art on communities, and philosophical inquiries into what constitutes true beauty or artistic authenticity.",
+            "index": 16
+        },
+        {
+            "class_name": "Environmental Ethics and Sustainability",
+            "class_description": "Centers on moral obligations to preserve ecosystems, biodiversity, and natural resources for current and future generations. It examines the ethical implications of climate change, habitat loss, and pollution, asking whether humans have inherent duties to nonhuman life or the environment. Discussions may consider sustainable development, stewardship, and the tension between economic progress and ecological well-being.",
+            "index": 17
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 18
+        }
+    ]
+}

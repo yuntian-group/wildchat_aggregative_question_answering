@@ -1,0 +1,7 @@
+source init.sh
+wandb online
+python3 evaluation.py --config_path configs/wildchat_aqa/retrieved/qwen3-32b/vector_raw/vector_qwen3-32b_5_rank_sampled.yaml
+python3 evaluation.py --config_path configs/wildchat_aqa/retrieved/qwen3-32b/vector_raw/vector_qwen3-32b_10_rank_sampled.yaml
+python3 evaluation.py --config_path configs/wildchat_aqa/retrieved/qwen3-32b/vector_raw/vector_qwen3-32b_20_rank_sampled.yaml
+python3 evaluation.py --config_path configs/wildchat_aqa/retrieved/qwen3-32b/vector_raw/vector_qwen3-32b_50_rank_sampled.yaml
+python3 evaluation.py --config_path configs/wildchat_aqa/retrieved/qwen3-32b/vector_raw/vector_qwen3-32b_100_rank_sampled.yaml

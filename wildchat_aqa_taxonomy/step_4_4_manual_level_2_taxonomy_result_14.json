@@ -1,0 +1,54 @@
+{
+  "classes": [
+    {
+      "class_name": "Translation",
+      "class_description": "Requests involving the conversion of text from one language to another while preserving meaning, tone, and cultural nuances. This includes both literal translation and transcreation, ensuring that context and stylistic elements remain intact.",
+      "index": 0
+    },
+    {
+      "class_name": "Rewriting and Paraphrasing",
+      "class_description": "Requests that involve reformulating and restructuring a text within the same language to improve clarity, adjust tone, or enhance style, while preserving all the original information. This category does NOT focus on grammatical correction or length reduction but rather on stylistic and structural modifications.",
+      "index": 1
+    },
+    {
+      "class_name": "Proof Reading and Grammar Correction",
+      "class_description": "Requests focused on reviewing text for errors in spelling, grammar, punctuation, and syntax. The goal is to refine the text for correctness and readability without altering its original structure or meaning.",
+      "index": 2
+    },
+    {
+      "class_name": "Summarization",
+      "class_description": "Requests that condense longer texts into shorter summaries by extracting key points and essential information. This category focuses on reducing length while maintaining coherence and informativeness.",
+      "index": 3
+    },
+    {
+      "class_name": "Vocabulary and Terminology",
+      "class_description": "Requests related to defining and exploring specific words or phrases, including providing synonyms, usage examples, and clarifications of semantic nuances in different contexts.",
+      "index": 4
+    },
+    {
+      "class_name": "Linguistic Analysis",
+      "class_description": "Requests that involve an in-depth examination of language elements such as grammar, syntax, phonetics, morphology, and etymology. This category focuses on analyzing linguistic structures and principles in both theoretical and practical contexts.",
+      "index": 5
+    },
+    {
+      "class_name": "Information Extraction",
+      "class_description": "Requests that involve identifying and extracting meaningful information from text. This may include extracting key entities, relationships, attributes, events, or other structured data elements to facilitate text understanding, analysis, or automation.",
+      "index": 6
+    },
+    {
+      "class_name": "Phonetics and Pronunciation",
+      "class_description": "Requests focused on the phonetic representation and pronunciation of words, including IPA transcription, transliteration, phonetic transcription, and pronunciation guidance for non-native speakers.",
+      "index": 7
+    },
+    {
+      "class_name": "Language Learning Assistance",
+      "class_description": "Requests involving help or suggestions for learning languages, including language learning strategies, writing suggestions, homework help, study tips, and resource recommendations. This category is tailored for users seeking educational support to improve their language skills.",
+      "index": 8
+    },
+    {
+      "class_name": "Undefined",
+      "class_description": "Requests that do not fit into the predefined categories or require a more specific classification.",
+      "index": 9
+    }
+  ]
+}

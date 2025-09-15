@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "class_name": "Biblical and Scriptural Narratives",
+            "class_description": "This category covers sacred narratives, historical events, and theological discourses arising from canonical texts and traditions within Judaism, Christianity, Gnostic systems, and related scriptures (including the Bible, Book of Mormon, etc.). It includes creation stories, prophetic visions, mythic interpretations of scripture, and liturgical practices that are rooted in these established religious texts. Discussions of figures, events, and symbolic rituals continue to define and impact faith communities through their scriptural heritage.",
+            "index": 0
+        },
+        {
+            "class_name": "Islamic Sacred Narratives",
+            "class_description": "This class focuses on religious narratives, teachings, and ritual practices derived from the Quran, Hadith, and the broader Islamic scholarly tradition. It encompasses discussions on prophetic histories, spiritual lessons, eschatological visions, and religious observances such as Hajj, as well as debated aspects of Islamic law and tradition that shape both historical and contemporary practice.",
+            "index": 1
+        },
+        {
+            "class_name": "Eastern Sacred Narratives",
+            "class_description": "This category encompasses mythological and spiritual narratives from South and East Asian traditions, including Hinduism, Buddhism, Sikhism, and related syncretic movements. It covers epic tales, deity lore, ritual practices and cosmological cycles that inform cultural and religious expressions in Eastern societies. Topics include festival traditions, divine incarnations, and metaphysical teachings that continue to influence modern spirituality.",
+            "index": 2
+        },
+        {
+            "class_name": "Classical Mythology Narratives",
+            "class_description": "This class covers mythological stories and legends originating from ancient Mediterranean and Near Eastern cultures such as Greek, Roman, Egyptian, and Mesopotamian traditions. It includes creation myths, heroic legends, divine conflicts, and symbolic narratives featuring gods and supernatural phenomena, reflecting the cultural and religious worldview of the classical era.",
+            "index": 3
+        },
+        {
+            "class_name": "Norse and Germanic Mythological Narratives",
+            "class_description": "This category includes mythological sagas, cosmic tales, and heroic adventures rooted in Norse, Scandinavian, and broader Germanic traditions. It covers apocalyptic myths like Ragnarok, divine conflicts, humorous reinterpretations of myth, and narratives that capture the distinct cultural ethos of northern European spirituality.",
+            "index": 4
+        },
+        {
+            "class_name": "Ancient Near Eastern and Persian Narratives",
+            "class_description": "This category is dedicated to ancient religious traditions and mythological narratives from the Near East and Iran, including Zoroastrianism and Persian myth. It covers themes such as moral dualism, cosmological order, divine beings, and mythic conflicts, offering insights into the foundational spiritual ideas and rituals that influenced regional cultures over millennia.",
+            "index": 5
+        },
+        {
+            "class_name": "Folk and Indigenous Myth Narratives",
+            "class_description": "This class is focused on localized folklore, indigenous legends, and culturally specific mythologies. It includes narratives from various ethnic and regional traditions (such as Slavic, Arab folklore, or medieval European legends like King Arthur) that may not be part of canonical religious scriptures. These stories convey traditional beliefs, supernatural adventures, and ritual practices that are unique to particular communities.",
+            "index": 6
+        },
+        {
+            "class_name": "Astrological and Divinatory Traditions",
+            "class_description": "This category addresses interpretative practices that connect celestial phenomena with spiritual insights. It includes astrological chart analyses, discussions of planetary influences, numerological methods, and other divinatory practices used to predict or understand personal and cosmic events, drawing on both ancient wisdom and contemporary reinterpretations.",
+            "index": 7
+        },
+        {
+            "class_name": "Modern Esoteric and Occult Spirituality",
+            "class_description": "This category covers contemporary reinterpretations of ancient spiritual concepts, occult practices, and new religious movements that explore mystical or paranormal phenomena. It includes discussions on modern mysticism, alternative cosmologies, experimental rituals (such as New Age practices), and idiosyncratic spiritual theories that challenge conventional religious paradigms.",
+            "index": 8
+        },
+        {
+            "class_name": "Religion, Society, and Cultural Critique",
+            "class_description": "This class examines the intersection of religion and society, focusing on the impact of religious beliefs on ethics, politics, and cultural identities. It includes analyses and critiques of religious institutions, discussions on the societal roles of religion, moral frameworks, and debates on how religious narratives and practices inform contemporary social and cultural norms.",
+            "index": 9
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 10
+        }
+    ]
+}

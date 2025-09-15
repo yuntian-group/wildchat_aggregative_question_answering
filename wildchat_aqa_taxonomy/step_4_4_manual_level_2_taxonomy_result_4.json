@@ -1,0 +1,144 @@
+{
+    "classes": [
+        {
+            "class_name": "Nutrition and Dietary Supplements",
+            "class_description": "Focuses on how nutrients (vitamins, minerals, proteins, carbohydrates, and fats), balanced diets, and supplements support overall health. Addresses dietary strategies for weight management, deficiencies, and intolerances. Emphasizes safe supplementation, evidence-based nutrition, and mindful eating to support or improve physical wellness.",
+            "index": 0
+        },
+        {
+            "class_name": "Reproductive Health and Childbirth",
+            "class_description": "Covers fertility, pregnancy, labor, delivery methods, and postpartum management. Includes prenatal care, high-risk pregnancies, breastfeeding, and newborn well-being. Highlights hormonal changes, maternal and paternal health, family planning, and the importance of patient-centered support for a safe reproductive process.",
+            "index": 1
+        },
+        {
+            "class_name": "Cancer and Oncological Care",
+            "class_description": "Addresses detection, diagnosis, and treatment of benign or malignant tumors. Covers screening programs, surgeries, chemotherapy, immunotherapy, radiation, and postoperative care. Emphasizes supportive care, psychosocial support, and targeted therapies to improve patient outcomes and quality of life.",
+            "index": 2
+        },
+        {
+            "class_name": "Pharmacology and Medication Safety",
+            "class_description": "Deals with prescription and non-prescription drugs, including indications, dosage, side effects, and interactions. Stresses the importance of consulting healthcare providers, following treatment plans, and understanding medication risks. Covers pharmacovigilance, regulations, and responsible use or discontinuation under medical guidance.",
+            "index": 3
+        },
+        {
+            "class_name": "Cardiovascular Diseases and Hypertension",
+            "class_description": "Focuses on heart and blood vessel conditions such as hypertension, arrhythmias, heart failure, and atherosclerosis. Addresses prevention strategies like diet, exercise, and screenings, as well as treatments and rehabilitation. Highlights lifestyle modifications, medication adherence, and advances in managing cardiovascular risks.",
+            "index": 4
+        },
+        {
+            "class_name": "Infectious Diseases and Vaccines",
+            "class_description": "Covers viral, bacterial, parasitic, and fungal infections alongside prevention, diagnosis, and treatment approaches. Details vaccination strategies, outbreak control measures, and global health organizations\u2019 responses. Stresses early detection, hygiene, and public education to reduce transmission and morbidity.",
+            "index": 5
+        },
+        {
+            "class_name": "Mental Health and Wellbeing",
+            "class_description": "Addresses emotional and psychological conditions such as depression, anxiety, or stress. Considers therapy approaches, medications, and lifestyle adjustments. Highlights the significance of early intervention, holistic support systems, and strategies to foster mental resilience and restore balance.",
+            "index": 6
+        },
+        {
+            "class_name": "Healthcare Systems and Public Health",
+            "class_description": "Examines the organization, policies, and ethics of healthcare. Covers insurance, cost, infrastructure, and quality assurance. Highlights preventive strategies at a population level, health education, and policy-making for equitable access and better health outcomes.",
+            "index": 7
+        },
+        {
+            "class_name": "Medical Technology and Telemedicine",
+            "class_description": "Explores innovations like AI diagnostics, robotic surgery, virtual consultations, and digital health records. Addresses regulatory frameworks, data privacy, and integrating new technologies into medical practice. Emphasizes improved access, patient engagement, and accuracy in modern healthcare.",
+            "index": 8
+        },
+        {
+            "class_name": "Oral Health and Dentistry",
+            "class_description": "Covers prevention, diagnosis, and treatment of conditions affecting teeth and gums. Includes dental hygiene, fluoride use, restorative procedures, and the importance of periodic checkups. Promotes patient education on maintaining oral wellness for overall health.",
+            "index": 9
+        },
+        {
+            "class_name": "Exercise, Fasting, and Weight Control",
+            "class_description": "Reviews safe exercise regimens, intermittent fasting, and evidence-based approaches to lose or maintain weight. Considers energy balance, healthy progression, and injury prevention. Encourages professional guidance and consistency for sustainable fitness and body composition goals.",
+            "index": 10
+        },
+        {
+            "class_name": "Pediatrics and Child Health",
+            "class_description": "Addresses medical care from infancy through adolescence, including vaccinations, developmental milestones, nutrition, and illnesses. Emphasizes preventive checkups, safe environments, and collaboration among caregivers, educators, and pediatric teams to support optimal child development.",
+            "index": 11
+        },
+        {
+            "class_name": "Surgery and Emergency Care",
+            "class_description": "Concerns acute interventions, trauma care, and surgical management. Involves preoperative and postoperative care, pain control, and rehabilitation following major or minor procedures. Emphasizes timely intervention, interdisciplinary collaboration, and measures that ensure patient safety and recovery.",
+            "index": 12
+        },
+        {
+            "class_name": "Allergies and Immune Conditions",
+            "class_description": "Explores hypersensitivity reactions (food, environmental, or drug allergies), autoimmune disorders, and immune response regulation. Addresses diagnostic methods, immunotherapy, and lifestyle adjustments to reduce triggers. Stresses long-term management, early detection, and professional monitoring of immune health.",
+            "index": 13
+        },
+        {
+            "class_name": "Sexual Health and Function",
+            "class_description": "Covers sexual wellbeing, libido, and reproductive anatomy outside of pregnancy. Includes topics like sexual orientation, safe practices, performance concerns, and relevant medical procedures. Encourages open communication, professional guidance, and respect for diverse sexual health needs.",
+            "index": 14
+        },
+        {
+            "class_name": "Occupational and Environmental Health",
+            "class_description": "Focuses on workplace and environmental hazards like chemical exposure, asbestos, and ergonomic risks. Reviews protective equipment, safety protocols, and regulations. Promotes preventative strategies and surveillance to reduce occupational injuries and related illnesses.",
+            "index": 15
+        },
+        {
+            "class_name": "Diagnostic Tests and Imaging",
+            "class_description": "Examines lab tests, imaging modalities (MRI, CT, X-ray, ultrasound), and other diagnostic tools. Discusses indications, result interpretation, and limitations. Stresses timely follow-up, accurate diagnostics, and interdisciplinary cooperation for individualized treatment decisions.",
+            "index": 16
+        },
+        {
+            "class_name": "Preventive Medicine and Wellness",
+            "class_description": "Promotes proactive health measures, including routine checkups, vaccinations, balanced sleep, and stress management. Encourages identifying risks early to reduce disease incidence or severity. Stresses continuous self-care, healthy lifestyles, and regular medical follow-up to maintain overall well-being.",
+            "index": 17
+        },
+        {
+            "class_name": "Genetics and Rare Conditions",
+            "class_description": "Explores hereditary disorders, cutting-edge gene therapies, and specialized diagnostics. Covers inheritance patterns, clinical research, and personalized treatments for less common or newly identified conditions. Emphasizes multidisciplinary care, patient advocacy, and advancing science to improve outcomes.",
+            "index": 18
+        },
+        {
+            "class_name": "Rehabilitation and Recovery",
+            "class_description": "Addresses restoring function, mobility, or independence after injuries, surgeries, or chronic conditions. Considers physical therapy, occupational therapy, pain management, and assistive devices. Focuses on individualized goals, team-based care, and gradual progress to optimize recovery.",
+            "index": 19
+        },
+        {
+            "class_name": "Substance Use and Addiction",
+            "class_description": "Deals with misuse of alcohol, tobacco, prescription drugs, or illicit substances. Considers dependency, withdrawal, and relapse prevention. Emphasizes evidence-based treatments like counseling, medication-assisted programs, and community support to promote sustained recovery and reduce harm.",
+            "index": 20
+        },
+        {
+            "class_name": "Digestive, Metabolic, and Endocrine Disorders",
+            "class_description": "Addresses diseases affecting the gastrointestinal tract, metabolism, and hormone-producing glands, such as diabetes or thyroid conditions. Covers dietary adjustments, medications, and regular monitoring. Emphasizes patient education, professional follow-ups, and proactive care to manage chronic symptoms.",
+            "index": 21
+        },
+        {
+            "class_name": "Dermatology and Skin Care",
+            "class_description": "Focuses on skin, scalp, and hair health issues like acne, dermatitis, psoriasis, or hair loss. Covers topical therapies, procedures, and preventive measures such as sun protection. Encourages early consultation and professional follow-up to maintain healthy tissues.",
+            "index": 22
+        },
+        {
+            "class_name": "Eye, ENT, and Respiratory Conditions",
+            "class_description": "Covers conditions of the eyes, ears, nose, throat, and respiratory system. Includes infections (sinusitis, otitis), asthma, and structural concerns. Emphasizes proper diagnosis, timely treatment, and preventive measures to maintain optimal sensory and breathing health.",
+            "index": 23
+        },
+        {
+            "class_name": "Neurology and Nervous System Disorders",
+            "class_description": "Deals with brain, spinal cord, and peripheral nerve conditions like epilepsy, Parkinson\u2019s, multiple sclerosis, or stroke. Examines diagnostic techniques, treatment plans, and rehabilitation methods. Highlights the importance of ongoing research, comprehensive care, and supportive resources.",
+            "index": 24
+        },
+        {
+            "class_name": "Veterinary Medicine and Animal Health",
+            "class_description": "Addresses diseases, preventive care, and treatments for animals, whether pets or livestock. Reviews vaccination, nutrition, parasite control, and basic surgeries. Emphasizes responsible ownership, regular veterinary checkups, and monitoring zoonotic risks to safeguard both animal and human health.",
+            "index": 25
+        },
+        {
+            "class_name": "Orthopedics and Musculoskeletal Health",
+            "class_description": "Covers conditions affecting bones, joints, muscles, ligaments, and tendons, including fractures, arthritis, and postural issues. Addresses preventive measures, diagnostic methods, surgeries, therapy options, and rehabilitation to restore mobility and reduce pain. Encourages specialized care for chronic musculoskeletal problems.",
+            "index": 26
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 27
+        }
+    ]
+}

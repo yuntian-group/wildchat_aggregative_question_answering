@@ -1,0 +1,232 @@
+{
+    "classes": [
+        {
+            "class_name": "Programming",
+            "class_description": "Covers writing, debugging, interpreting, understanding, and optimizing code across various programming languages like C, C++, Java, Python, Rust, Javascript, and more. Encompasses code structure, logic, data types, performance tuning, version control, development tools, coding environment, and best practices for programming and coding.",
+            "class_examples": [
+                "Analyze the complexity of this Java code",
+                "How to set up a Python development environment",
+                "Write python code to use wordnet to perform lemmatization"
+            ],
+            "index": 0
+        },
+        {
+            "class_name": "Web Development",
+            "class_description": "Specializes in creating websites and web applications or writing web related codes using frontend technologies (like HTML, CSS, JavaScript), frameworks (like React, Vue.js, and Angular) and backend frameworks (like Node.js, Django). Focuses on web related code writing, web-specific protocols, browser compatibility, responsive design, and web security. Emphasizes creating performant, accessible, and standards-compliant web solutions.",
+            "class_examples": [
+                "Write this javascript code to implement a feature in my web application",
+                "How to implement responsive design in a website?",
+                "Write an web application to display AI generated images",
+                "Write a job requirement of web development using MERN stack.",
+                "Complete this javascript code: get headerSearch() { ..."
+            ],
+            "index": 1
+        },
+        {
+            "class_name": "Mobile Development and Mobile Apps",
+            "class_description": "Focus on creating software for mobile platforms like Android and iOS. Includes designing user interfaces for small screens, using OS-specific APIs, managing app lifecycles, and optimizing performance before deployment to app stores. Also covers technical support, debugging, troubleshooting of mobile applications.",
+            "class_examples": [
+                "How to implement push notifications in an Android app?",
+                "What are the best practices for iOS app development?",
+               "What's the required steps to publish an app on Google Play Store?"
+            ],
+            "index": 2
+        },
+        {
+            "class_name": "Databases and Queries",
+            "class_description": "Encompasses the design and administration of database and data storage solutions using SQL or NoSQL. Addresses data schema modeling, data indexing, database transactions, database concurrency control, database replication, and database performance tuning. Involves data querying, business logic integration, database backup strategies, and databaqse optimization for reliability and scalability.",
+            "class_examples": [
+                "How to optimize a SQL query for better performance?",
+               "How to configure postgresql on Red Hat Linux?",
+                "What are the best practices for NoSQL database design?"
+            ],
+            "index": 3
+        },
+        {
+            "class_name": "DevOps and Cloud",
+            "class_description": "Focuses on deployment, configuration, and maintenance of software systems including cloud services (AWS, GCP, Azure). Involves containerization (Docker), orchestration (Kubernetes), infrastructure as code (Terraform, Ansible), web servers (Nginx, Apache), load balancing, service discovery, and monitoring solutions. Encompasses CI/CD pipelines, logging, log analysis, and observability (Splunk, ELK, Prometheus, Grafana). Emphasizes automation, scalability, reliability, and security in modern software operations.",
+            "class_examples": [
+                "Analyze the logs with Splunk to identify the root cause of the issue",
+                "How to set up a CI/CD pipeline using Jenkins?",
+                "Turn off all containers in a Kubernetes cluster for upgrade"
+            ],
+            "index": 4
+        },
+        {
+            "class_name": "Computer Networking",
+            "class_description": "Covers networking principles like TCP/IP, routing, DNS, VLANs, subnetting, and firewall configurations. Encompasses troubleshooting connectivity, securing networks, optimizing throughput, and reliable data transmission across various infrastructures. Also includes programming network devices, network protocols, network monitoring, and network virtualization.",
+            "class_examples": [
+                "How to configure a VLAN on a Cisco switch?",
+                "What are the best practices for securing a wireless network?",
+                "Analyze the network traffic to identify the source of the issue"
+            ],
+            "index": 5
+        },
+        {
+            "class_name": "Cybersecurity",
+            "class_description": "Focuses on protecting systems, networks, and data against threats. Encompasses secure coding, encryption, threat analysis, penetration testing, anti-phishing measures, spam protection, vulnerability management, and incident response to maintain strong security postures. Also covers compliance, improve user security awareness, risk management,research paper about cybersecurity, and security best practices.",
+            "class_examples": [
+                "Give some suggestions to improve the anti-phishing measures",
+                "How to perform a penetration test on a web application?",
+                "How could spammer build email server for spamming?",
+                "Summarize this youtube video about cybersecurity"
+            ],
+            "index": 6
+        },
+        {
+            "class_name": "Operating Systems and Administration",
+            "class_description": "Covers installing, configuring, and managing operating systems like Linux, Windows, or macOS. Includes operating systems administration, monitoring, virtualization, kernel configuration, user management, and performance tuning. Involves troubleshooting techniques to maintain stable and secure environments for computer operating systems.",
+            "class_examples": [
+                "How to configure a Linux server for web hosting?",
+                "Analyze the system logs to identify the root cause of the issue"
+            ],
+            "index": 7
+        },
+        {
+            "class_name": "Testing and Quality Assurance",
+            "class_description": "Encompasses verifying software correctness, performance, and reliability through unit, integration, system, and acceptance testing. Highlights building unit test, mocking, automated testing frameworks, coverage analysis, bug tracking, load testing, and continuous testing processes.",
+            "class_examples":[
+                "Write a unit test for my AI application",
+                "How to set up a continuous testing pipeline?",
+                "Write a mock test for my C++ application"
+            ],
+            "index": 8
+        },
+        {
+            "class_name": "Software Architecture and Software System Design",
+            "class_description": "Focuses on high-level software design, including software structure, software design patterns, microservices, and modularity. Also covers distributed system architecture, scalability, maintainability, and performance optimization. Addresses best practices for maintainability, scalability, clear data flow, and ensuring the architecture meets business requirements.",
+            "class_examples":[
+                "How to design a distributed system for high availability?",
+                "What are the best practices for microservices architecture?",
+                "Introduce MVC pattern in software design"
+            ],
+            "index": 9
+        },
+        {
+            "class_name": "Software Development Methodology and Project Management",
+            "class_description": "Covers agile, waterfall, scrum, kanban, and other software development methodologies. Discusses project management, sprint planning, backlog grooming, retrospectives, and adapting to changing requirements in software projects. Also include software development lifecycle,   product lifecycle management, and effective communication in software development teams.",
+            "class_examples":[
+                "How to manage a software project using Agile methodology?",
+                "What are the best practices for sprint planning in Scrum?",
+                "Introduce product lifecycle management in software development"
+            ],
+            "index": 10
+        },
+        {
+            "class_name": "AI and Machine Learning",
+            "class_description": "Covers algorithms and frameworks for intelligent systems, including statistical learning, machine learning, deep learning, and neural networks, such as tensorflow, pytorch, scikit-learn and xgboost. Involves model design, data preprocessing, training, and applications in natural language programming (NLP), computer vision (CV), and other AI domains. Also includes application of AI (Stable Diffusion, ChatGPT, Copilot), and AI ethics, AI generated content detection, fictitious AI, story of AI, and AI research.",  
+            "class_examples":[
+                "Write an AI for my game",
+                "How to detect ChatGPT generated content?",
+                "Generate some prompt for stable diffusion",
+                "Write python code to use wordnet to perform lemmatization",
+                "Debug this LSTM model implemented using Pytorch for me",
+                "Use LinearRegresssion in sklearn to predict the stock price"
+            ],
+            "index": 11
+        },
+        {
+            "class_name": "Computer Hardware, Architecture, and Peripherals",
+            "class_description": "Addresses the components of personal computers, including CPUs, GPUs, RAM, storage devices, and motherboards. Covers assembly, troubleshooting, compatibility, performance tuning, cooling solutions, hardware drivers, and computer hardware upgrades for various workloads. Also includes hardware architecture of computer systems and peripherals.",
+            "class_examples": [
+                "Is a 1 TB SSD better than a 2 TB HDD for gaming?",
+                "NVIDIA vs AMD GPUs: Which is better for deep learning?",
+                "How to install a new CPU cooler?",
+                "Explain the difference between Rom and Ram"
+            ],
+            "index": 12
+        },
+        {
+            "class_name": "Embedding Systems and IoT",
+            "class_description": "Focuses on designing, programming, and troubleshooting embedded systems and IoT devices. Includes microcontroller programming (Arduino, Raspberry Pi, ESP32, STM32), sensor interfacing, communication protocols (like I2C, SPI, UART), real-time operating systems, and IoT cloud platforms. Also covers hardware-software integration, firmware development, power management, and security considerations for embedded systems.",
+            "class_examples": [
+                "How to start a web server on an ESP32?",
+                "How to update the firmware to fix a security vulnerability?",
+                "What are the best practices for low-power IoT devices?",
+                "Edge computing vs cloud computing: Which is better for IoT?",
+                "The challenge of low power consumption in IoT"
+            ],
+            "index": 13
+        },
+        {
+            "class_name": "Game Development, Design, and Modding",
+            "class_description": "Centers on creating interactive games using engines like Unity or Unreal. Includes asset creation, rendering, physics, game mechanics, optimization, user input handling, and delivering engaging experiences to players from programming and technical perspective. Also covers development and configuration of mods and modifications for existing games.",
+            "class_examples": [
+                "How to optimize the performance of a Unity game?",
+                "Create a mod for Minecraft that adds new items",
+                "How to add new charater to GTA V?",
+                "What's the future of VR gaming?"
+            ],
+            "index": 14
+        },
+        {
+            "class_name": "Computer Graphics",
+            "class_description": "Focuses on computer grahics concepts, research, rendering techniques, shaders, lighting, and animation principles. Involves 2D and 3D graphics, visual effects, modeling, texturing, rigging, and creating immersive visual content for games, movies, or simulations. Encompasses development use graphics libraries (e.g. OpenGL, WebGL, DirectX, Vulkan), and development using graphics software (Blender, Maya, 3ds Max).",
+            "class_examples": [
+                "What are the best practices for 3D modeling?",
+                "Analyze the performance of this WebGL application"
+            ],
+            "index": 15
+        },
+        {
+            "class_name": "Computer Science Theory",
+            "class_description": "Explores the theoretical foundations and mathematical principles of computing. Encompasses fundamental concepts including data structures, algorithms, computational complexity, formal languages, and automata theory. Involves proof-based methods, algorithmic analysis, and theoretical problem-solving techniques used in software development and research.",
+            "class_examples":[
+                "Analyze the time complexity of this algorithm",
+                "What are the best data structures for this problem?",
+                "Explain the concept of Turing machine",
+                "Explain the greates common divisor algorithm"
+            ],
+            "index": 16
+        },
+        {
+            "class_name": "Data Analysis, Visualization and Business Intelligence",
+            "class_description": "This classification covers techniques and processes for analyzing structured or unstructured data, including data clustering (KMeans, DBSCAN), regression analysis, business intelligence, data visualization. Relevant topics include using data transformations, data cleaning technique, or algorithmic solutions to analyze large or specialized datasets outside ML model training using frameworks like pandas, numpy, tableau, Excel, matplotlib, or PowerBI.", 
+            "class_examples":[
+                "How to visualize the sales data using Tableau?",
+                "Use DAX to calculate the monthly revenue in PowerBI",
+                "Collect the bitcoin price data and analyze it",
+                "Write HDBSCAN VBA code for excel to analyze the data"
+            ],
+            "index": 17
+        },
+        {
+            "class_name": "Blockchain and Cryptocurrency",
+            "class_description": "Involves creating decentralized applications and smart contracts on blockchain platforms such as Ethereum. Covers cryptographic methods, consensus algorithms, Solidity programming, and building trustless distributed ledger solutions. Also includes cryptocurrency topics like mining, wallets, trading, exchanges, and blockchain scalability.",
+            "class_examples": [
+                "Help me debug the code in Solidity",
+                "What are the best practices for blockchain security?",
+                "Collect the bitcoin price data and analyze it"
+            ],
+            "index": 18
+        },
+        {
+            "class_name": "Productivity and Desktop Software",
+            "class_description": "Focuses on the recommending, consulting, effective use, troubleshooting, technical support of everyday desktop software for productivity, including document editors (like Word, Google Doc, LibreOffice), spreadsheets (like Excel, Google Sheet), email clients (like outlook), browsers, photo editing, cad softwares, live and broadcasting software (OBS, NBS), process control softwares, enterprise resource planning software, and other desktop softwares that not for coding and development purpose. Addresses advanced formatting, macros, collaboration features, automation, and interoperability techniques to optimize workflow and productivity on desktop systems.",
+            "class_examples":[
+                "How to install Open Broadcaster Software (OBS)?",
+                "Troubleshoot the formatting issue in Microsoft Word",
+                "How to become anoyomous when submitting Google Form ?",
+                "Why my discord failed to connect to the voice channel?",
+                "How to setup meeting in Microsoft Teams?"
+            ],
+            "index": 19
+        },
+        {
+            "class_name": "Human Computer Interaction",
+            "class_description": "Focuses on designing intuitive interfaces, user experience, usability testing, accessibility, and user-centered design principles. Involves wireframing, prototyping, user research, and iterative design processes.",
+            "class_examples":[
+                "How to conduct a usability test for a mobile app?",
+                "Design a user-friendly interface for this application",
+                "Design an ICON for a new feature"
+            ],
+            "index": 20
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not fit into any predefined taxonomy.",
+            "class_examples":[],
+            "index": 21
+        }
+    ]
+}

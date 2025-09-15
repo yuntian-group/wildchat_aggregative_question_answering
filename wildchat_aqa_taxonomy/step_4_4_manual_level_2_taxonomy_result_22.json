@@ -1,0 +1,34 @@
+{
+    "classes": [
+        {
+            "class_name": "Recipes & Cooking Techniques",
+            "class_description": "This category covers detailed recipe instructions, cooking methods, and practical kitchen tips. It includes step-by-step guidance on meal preparation, usage of cooking equipment, innovative culinary processes, and measurement tips. Discussions in this category focus on how to create dishes, execute specific techniques, and make use of kitchen tools to achieve desired culinary results.",
+            "index": 0
+        },
+        {
+            "class_name": "Nutritional Guidance & Diet Planning",
+            "class_description": "This category focuses on balanced nutrition, dietary recommendations, and health benefits of various foods. It includes expert advice on macronutrients, micronutrients, specialized diets such as keto, Whole30, and DASH, as well as nutritional analyses and meal planning aimed at promoting overall health.",
+            "index": 1
+        },
+        {
+            "class_name": "Ingredient Selection & Quality",
+            "class_description": "This category addresses the properties, selection, and culinary applications of individual ingredients. It covers topics such as flavor profiles, nutritional content, ingredient substitutions, and the impact of ingredient choices on both taste and health outcomes, ensuring clarity on how specific ingredients enhance recipes and diets.",
+            "index": 2
+        },
+        {
+            "class_name": "Culinary Culture & Dining Experience",
+            "class_description": "This category explores the cultural, social, and experiential aspects of food. It includes discussions on regional cuisines, themed menus, restaurant recommendations, food events, and innovative dining experiences. The focus is on the cultural context and experiential side of food rather than on recipes or nutritional details.",
+            "index": 3
+        },
+        {
+            "class_name": "Food Safety & Storage",
+            "class_description": "This category encompasses best practices for safe food handling, storage, and preparation. It includes guidelines to prevent foodborne illnesses, tips on maintaining proper hygiene, equipment safety, and strategies for safe meal storage. The focus is on ensuring the quality and safety of food from preparation through consumption.",
+            "index": 4
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 5
+        }
+    ]
+}

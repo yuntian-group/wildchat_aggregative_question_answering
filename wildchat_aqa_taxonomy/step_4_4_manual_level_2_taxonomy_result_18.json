@@ -1,0 +1,104 @@
+{
+    "classes": [
+        {
+            "class_name": "NBA Basketball",
+            "class_description": "Covers the National Basketball Association, including regular season, playoffs, and the Finals. Focuses on team rosters, star players, trades, and coaching strategies that shape the league. Examines notable rivalries, record-breaking performances, and how franchises evolve across different eras, highlighting the excitement and global influence of professional basketball.",
+            "index": 0
+        },
+        {
+            "class_name": "NCAA College Basketball",
+            "class_description": "Focuses on collegiate-level basketball sanctioned by the NCAA. Explores conference play, tournaments such as March Madness, and major rivalries. Highlights key coaching philosophies, player development, and the intense school spirit found on campuses. Discusses standout players who may progress to professional leagues and the traditions that make college basketball unique.",
+            "index": 1
+        },
+        {
+            "class_name": "NCAA College Football",
+            "class_description": "Centers on American football at the collegiate level. Includes conference championships, bowl games, and the College Football Playoff. Examines coaching tactics, recruiting battles, and storied rivalries. Highlights individual players aiming for professional careers and captures the passionate atmosphere surrounding college game days, marching bands, and campus excitement.",
+            "index": 2
+        },
+        {
+            "class_name": "Professional American Football",
+            "class_description": "Encompasses top-tier American football leagues such as the NFL, XFL, and USFL. Highlights regular season competition, playoffs, and the Super Bowl. Explores player contracts, trades, coaching strategies, and significant rivalries. Showcases franchise history, star athletes, and the shifting tactics that define modern professional football.",
+            "index": 3
+        },
+        {
+            "class_name": "Global Soccer",
+            "class_description": "Addresses domestic and international soccer, including major leagues (e.g., Premier League, La Liga) and tournaments like the World Cup. Examines player transfers, coaching tactics, fan culture, and rivalries. Highlights iconic clubs, national teams, and the unifying passion that makes football the world\u2019s most popular sport.",
+            "index": 4
+        },
+        {
+            "class_name": "Motorsport",
+            "class_description": "Covers racing series such as Formula 1, IndyCar, StockCar, and other competitive auto events. Highlights driver lineups, engineering innovations, track-specific challenges, and evolving safety standards. Explores sponsorship deals, famous circuits, and strategic race decisions. Celebrates the fast-paced drama and technological evolution that define motorsport.",
+            "index": 5
+        },
+        {
+            "class_name": "Professional Wrestling",
+            "class_description": "Focuses on sports-entertainment promotions like WWE, AEW, and others. Explores championship storylines, signature moves, and character rivalries. Highlights major events such as WrestleMania and SummerSlam, examining how athletic performance merges with scripted storytelling. Emphasizes the fan engagement and larger-than-life personalities that shape professional wrestling.",
+            "index": 6
+        },
+        {
+            "class_name": "Combat Sports",
+            "class_description": "Encompasses disciplines such as boxing, MMA, Muay Thai, and judo. Examines training regimens, striking and grappling techniques, weight classes, and notable matchups. Highlights marquee fighters\u2019 resilience, mental fortitude, and promotion-based rivalries. Explores how rule sets, fight camps, and coaching tactics define modern combat sports competition.",
+            "index": 7
+        },
+        {
+            "class_name": "Ice Hockey",
+            "class_description": "Deals with elite and professional hockey, especially the NHL. Covers team rosters, trades, coaching strategies, and the pursuit of the Stanley Cup. Emphasizes the fast-paced, physical nature of the game and storied rivalries. Highlights player skill, goaltending, and the dedicated fan culture that elevates hockey\u2019s intensity.",
+            "index": 8
+        },
+        {
+            "class_name": "Cycling (Races & Gear)",
+            "class_description": "Addresses competitive cycling, including road, track, and mountain bike racing. Discusses iconic events like the Tour de France, velodrome competitions, and keirin. Explores gear selection (frames, wheels, drivetrains) and strategies such as breakaways or sprints. Highlights cyclists\u2019 endurance, teamwork, and technological innovations that influence race outcomes.",
+            "index": 9
+        },
+        {
+            "class_name": "Baseball",
+            "class_description": "Covers professional leagues (e.g., MLB) and high-level competitions, as well as collegiate baseball matchups. Examines pitching duels, batting lineups, and fielding strategies. Highlights iconic ballparks, postseason runs, and the World Series. Underlines the sport\u2019s storied traditions, star players, trades, and statistical depth that make baseball a cherished pastime worldwide.",
+            "index": 10
+        },
+        {
+            "class_name": "Rugby",
+            "class_description": "Focuses on both Rugby Union and Rugby League, including major tournaments like the Rugby World Cup or Six Nations. Addresses scrums, lineouts, defensive structures, and offensive strategies. Highlights player physicality, teamwork, and intense rivalries among international and club teams. Emphasizes the sport\u2019s distinctive culture and global appeal.",
+            "index": 11
+        },
+        {
+            "class_name": "Cricket",
+            "class_description": "Covers the sport of cricket in formats such as Test matches, One-Day Internationals, and T20 contests. Examines batting, bowling, fielding, and run-chasing strategies. Highlights tournaments like the Cricket World Cup, the role of captains, and historic rivalries among cricketing nations. Showcases the game\u2019s distinct traditions, passionate fan bases, and skillful tactics.",
+            "index": 12
+        },
+        {
+            "class_name": "Tennis and Other Racket Sports",
+            "class_description": "Addresses tennis at the Grand Slams and professional tours, as well as sports including badminton and table tennis. Explores techniques like serving, volleying, and returning. Examines mental resilience, player rankings, and storied rivalries. Highlights how court surface, match format, and strategic shot selection impact results in these dynamic racket sports.",
+            "index": 13
+        },
+        {
+            "class_name": "Volleyball",
+            "class_description": "Covers the sport of volleyball in both indoor and beach formats. Examines spiking, blocking, and serving techniques. Highlights team formations, offensive and defensive systems, and key competitions. Showcases the fast-paced rallies, player specialization, and cohesive communication required for high-level volleyball success.",
+            "index": 14
+        },
+        {
+            "class_name": "Golf",
+            "class_description": "Addresses professional golf tours, including the Masters, U.S. Open, and other notable tournaments. Explores swing mechanics, putting techniques, and course management strategies. Highlights top players, significant rivalries, and mental focus as a defining factor. Reflects on equipment innovations influencing performance in modern golf competition.",
+            "index": 15
+        },
+        {
+            "class_name": "General or Cross-Sport Training & Fitness",
+            "class_description": "Focuses on broad-based athletic conditioning methods, such as strength routines, bodyweight exercises, endurance training, nutrition, and recovery. Applicable to multiple sports, these strategies help enhance overall performance, prevent injuries, and support a healthy lifestyle. Emphasizes fundamental fitness principles that athletes can adapt for their specific disciplines.",
+            "index": 16
+        },
+        {
+            "class_name": "Fictional or Hypothetical Scenarios",
+            "class_description": "Captures imaginative or speculative sports storylines beyond official records. May feature alternate team rosters, fantasy drafts, fictional tournaments, or comedic narratives involving real athletes. Explores various \u201cWhat if?\u201d situations to reimagine results or create entirely new matchups, harnessing creativity while remaining rooted thematically in sports and athletic competition.",
+            "index": 17
+        },
+        {
+            "class_name": "Gymnastics & Swimming",
+            "class_description": "Highlights gymnastics disciplines (artistic, rhythmic) and competitive swimming events. Examines technique, training regimens, and unique challenges\u2014such as balance beam routines or stroke mechanics. Covers the precision, strength, and endurance crucial for these sports at both amateur and elite levels, along with the mental preparation needed to excel.",
+            "index": 18
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 19
+        }
+    ]
+}

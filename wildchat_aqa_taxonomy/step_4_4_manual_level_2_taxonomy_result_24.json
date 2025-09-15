@@ -1,0 +1,174 @@
+{
+    "classes": [
+        {
+            "class_name": "Climate Change Causes, Impacts, and Adaptation",
+            "class_description": "Focuses on what drives climate change\u2014such as greenhouse gas emissions\u2014and how rising temperatures affect weather patterns, ecosystems, and human societies. It also addresses strategies for mitigating climate change and adapting to its effects, including infrastructure upgrades, community resilience programs, and policies to handle extreme events. Discussions may include sea-level rise, glacial melt, and localized impacts like droughts or severe storms. Overall, it aims to reduce future risks while helping regions cope with ongoing climate shifts.",
+            "index": 0
+        },
+        {
+            "class_name": "Deforestation, Reforestation, and Sustainable Forestry",
+            "class_description": "Examines the causes of forest loss\u2014such as logging, agriculture, or urban expansion\u2014and the adverse effects on biodiversity, carbon storage, and water systems. It also covers approaches for reversing damage, including planting trees and preserving old-growth forests. Sustainable forestry practices, community-driven forest management, certification schemes, and habitat rehabilitation are central themes to ensure forest ecosystems remain healthy for future generations.",
+            "index": 1
+        },
+        {
+            "class_name": "Pollution (Air, Water, Soil) and Remediation",
+            "class_description": "Addresses contamination of the environment from industrial, agricultural, or residential sources, covering pollutants such as heavy metals, plastics, and harmful chemicals. It highlights measuring techniques, regulatory standards, and cleanup methods like bioremediation and phytoremediation, where living organisms break down or absorb hazardous substances. Approaches to prevent or reduce further pollution, alongside active site restoration efforts, are central to this category.",
+            "index": 2
+        },
+        {
+            "class_name": "Biodiversity Conservation and Wildlife Protection",
+            "class_description": "Covers efforts to preserve Earth\u2019s variety of life, from safeguarding endangered species to maintaining healthy ecosystems. Topics include habitat conservation, anti-poaching measures, wildlife corridors, and restoring populations through captive breeding or reintroduction. Emphasis is on maintaining ecological balance, preventing species extinction, and supporting the natural processes that sustain biodiversity.",
+            "index": 3
+        },
+        {
+            "class_name": "Sustainable Agriculture and Food Systems",
+            "class_description": "Explores eco-friendly farming methods intended to preserve soil health, reduce chemical usage, and use water wisely. Topics include regenerative agriculture, organic practices, crop rotation, and local sourcing. It also addresses fair trade, reducing food waste, and creating resilient food systems that meet nutrition needs while safeguarding ecosystems for the long term.",
+            "index": 4
+        },
+        {
+            "class_name": "Greenhouse Gas Emissions and Carbon Management",
+            "class_description": "Focuses on identifying, tracking, and reducing greenhouse gas emissions such as CO2 and methane. Strategies range from corporate carbon accounting, energy-efficient equipment, and low-carbon supply chains to offsetting programs and carbon capture technologies. The goal is helping industries, governments, and individuals shrink their carbon footprint and move toward climate responsibility.",
+            "index": 5
+        },
+        {
+            "class_name": "Sustainable Energy and Energy Transition",
+            "class_description": "Centers on shifting from fossil fuels to renewable energy sources like solar, wind, hydro, and geothermal. Topics include grid integration, battery innovations, and policy incentives for accelerating this transition. Emphasis is placed on ensuring energy access, improving energy efficiency, and integrating community-led efforts to build clean and equitable energy systems.",
+            "index": 6
+        },
+        {
+            "class_name": "Waste Management and Circular Economy",
+            "class_description": "Explores how societies handle solid, liquid, or hazardous waste while trying to preserve resources and reduce pollution. It includes recycling, composting, waste-to-energy solutions, and designing products with reuse and durability in mind. The circular economy concept underpins this category, focusing on keeping materials in circulation and minimizing both litter and landfill usage.",
+            "index": 7
+        },
+        {
+            "class_name": "Sustainable Cities and Urban Development",
+            "class_description": "Examines ways for urban areas to improve environmental performance and quality of life. Topics include green building codes, mass transit systems, urban greening projects, and community participation. Policy tools\u2014like zoning reforms and smart-city technologies\u2014work alongside environmental justice efforts to balance development needs, social equity, and resource conservation in cities.",
+            "index": 8
+        },
+        {
+            "class_name": "Ecological Restoration and Ecosystem Management",
+            "class_description": "Focuses on rehabilitating and managing ecosystems that have been damaged or disrupted. Efforts include reintroducing native species, removing invasive species, and restoring natural processes such as wetland filtration or pollinator services. Approaches like rewilding and habitat connectivity aim to recover biodiversity, enhance resilience, and promote long-term sustainable land use.",
+            "index": 9
+        },
+        {
+            "class_name": "Environmental Policies, Laws, and Regulations",
+            "class_description": "Addresses legal frameworks that protect air, water, biodiversity, and other natural resources. Topics include statutory limits on emissions, environmental impact assessments, and renewable energy mandates. Discussions often revolve around compliance and enforcement, evolving regulations based on scientific evidence, and holding actors accountable for unsustainable practices.",
+            "index": 10
+        },
+        {
+            "class_name": "Community-based Conservation and Participation",
+            "class_description": "Highlights local and grassroots efforts in environmental stewardship. It includes citizen science programs, eco-committees, and partnerships between NGOs and residents. Through shared decision-making and education aligned with cultural values, these community initiatives foster a sense of ownership and long-term success in preserving natural resources.",
+            "index": 11
+        },
+        {
+            "class_name": "Environmental and Climate Justice",
+            "class_description": "Examines how environmental and climate issues disproportionately harm marginalized groups and how to ensure fair outcomes. This includes addressing historical emissions responsibilities, financing adaptation for low-income regions, and involving underrepresented communities in decision-making. Topics also cover legal actions against major polluters, gender perspectives, and broader principles of equitable resilience.",
+            "index": 12
+        },
+        {
+            "class_name": "Conservation Technology and Innovation",
+            "class_description": "Covers new and emerging tools that aid in protecting natural environments. Examples include drone-based surveys, satellite wildlife tracking, AI-driven data analysis, and eDNA sampling to identify species presence. Emphasis is on how technology can improve research accuracy, guide effective action, and help organizations collaborate to conserve biodiversity.",
+            "index": 13
+        },
+        {
+            "class_name": "Sustainable Tourism and Ecotourism",
+            "class_description": "Addresses travel practices that minimize harm and support local economies. Topics include low-impact lodging, responsible wildlife viewing, and educating visitors on conservation. Covers ways to limit visitor numbers at sensitive sites, partner with communities for authentic cultural experiences, and ensure tourism income benefits both conservation and residents.",
+            "index": 14
+        },
+        {
+            "class_name": "Water Resource Management and Conservation",
+            "class_description": "Covers ensuring the sustainable use and protection of freshwater resources. Topics include watershed protection, advanced irrigation, rainwater harvesting, and wastewater recycling. It also looks at equitable water sharing, flood control, and drought resilience measures. Effective governance and infrastructure are central to balancing human demands with ecosystem health.",
+            "index": 15
+        },
+        {
+            "class_name": "Sustainable Transportation and Mobility",
+            "class_description": "Focuses on reducing the environmental impact of travel, including electric and hybrid vehicles, clean fuels, improved public transit, and infrastructure for biking or walking. It also addresses policy measures like emissions regulations, congestion pricing, and incentives for low-carbon mobility choices. The objective is to cut transportation-related emissions while maintaining efficient, affordable transit.",
+            "index": 16
+        },
+        {
+            "class_name": "Eco-friendly Materials and Green Design",
+            "class_description": "Emphasizes constructing and manufacturing with materials that are less harmful to the environment throughout their life cycle. Topics include biodegradable plastics, natural fibers, and recycled building components. Green design aims to reduce waste and resource use from sourcing to disposal, ensuring healthier living spaces and minimized ecological footprints.",
+            "index": 17
+        },
+        {
+            "class_name": "Environmental Monitoring, Data Analysis, and Reporting",
+            "class_description": "Looks at methods for measuring environmental changes, such as remote sensing, atmospheric or water quality measurements, and biodiversity surveys. Data analysis guides policymaking, helps ensure regulatory compliance, and underpins conservation priorities. Public access to environmental data fosters transparency and collaboration among scientists, communities, and governments in addressing environmental challenges.",
+            "index": 18
+        },
+        {
+            "class_name": "Environmental Education and Public Awareness",
+            "class_description": "Highlights programs that inform and inspire people to adopt sustainable behaviors. This includes formal education curricula, workshops, community outreach, and media campaigns. By connecting complex environmental issues to daily life, these efforts encourage responsible consumption, cultivate a sense of stewardship, and drive collective action toward preserving nature.",
+            "index": 19
+        },
+        {
+            "class_name": "Soil Health and Land Use Management",
+            "class_description": "Focuses on how healthy soils support agriculture, carbon sequestration, and biodiversity. Practices like crop rotation, reduced tillage, and organic inputs maintain fertility and prevent erosion. Land use planning also features prominently, ensuring urban growth, farming, and conservation areas are aligned to protect soil quality and ecosystem services.",
+            "index": 20
+        },
+        {
+            "class_name": "Protected Areas and Natural Heritage Sites",
+            "class_description": "Addresses locations legally or culturally recognized for preserving unique ecosystems and wildlife. Topics include enforcing anti-poaching measures, restricting resource extraction, and managing visitor activities to prevent damage. These regions serve as refuges for distinct species and habitats, where ecotourism and research can support ongoing protection efforts.",
+            "index": 21
+        },
+        {
+            "class_name": "Marine and Coastal Conservation",
+            "class_description": "Covers efforts to protect ocean and coastal environments, including coral reefs, fisheries, mangroves, and seagrass beds. Key concerns include plastic pollution, overfishing, and habitat disturbance. Strategies often involve creating marine protected areas, enforcing sustainable fishing practices, and building resilience against climate-driven threats like rising sea levels or ocean acidification.",
+            "index": 22
+        },
+        {
+            "class_name": "Environmental Disaster Preparedness and Risk Reduction",
+            "class_description": "Discusses strategies to prevent or lessen the impact of events like floods, wildfires, hurricanes, or chemical spills. It includes hazard mapping, early warning systems, stronger infrastructure, and evacuation procedures. By identifying vulnerabilities proactively, communities and authorities can integrate climate adaptation and ecological restoration into disaster planning.",
+            "index": 23
+        },
+        {
+            "class_name": "Carbon Markets and Climate Finance",
+            "class_description": "Explores economic tools that fund emissions reductions and environmental projects. Topics include carbon credit trading, offset programs, green bonds, and sustainability-linked lending. Ensuring transparency and accountability in these schemes is essential to drive investment in renewable energy, low-carbon technology, and conservation efforts, especially in developing regions.",
+            "index": 24
+        },
+        {
+            "class_name": "Sustainable Lifestyles and Consumer Choices",
+            "class_description": "Highlights how individual habits can reduce resource consumption and ecological harm. Topics include energy conservation, mindful shopping, minimizing plastic use, and lowering meat intake. By shifting personal demand toward greener, ethically produced goods, consumers can encourage businesses and policymakers to embrace sustainability more widely.",
+            "index": 25
+        },
+        {
+            "class_name": "Green Industry, Corporate Sustainability, and Innovation",
+            "class_description": "Examines how businesses adopt and scale environmental best practices, from shrinking carbon footprints to ethical sourcing. Topics include sustainability reporting, supply chain transparency, eco-certifications, and pioneering green technologies. Emphasis is on integrating profitability with ecological responsibility, ensuring that products and processes align with global sustainability goals.",
+            "index": 26
+        },
+        {
+            "class_name": "Sustainable Packaging, Recycling, and Plastics Reduction",
+            "class_description": "Focuses on minimizing single-use, non-recyclable materials, exploring alternatives like biodegradable or compostable solutions. It also includes effective recycling structures, deposit-refund schemes, and education campaigns. The aim is to reduce plastic pollution and landfill use, encouraging circular approaches where packaging remains in use rather than discarded.",
+            "index": 27
+        },
+        {
+            "class_name": "Climate Negotiations and International Agreements",
+            "class_description": "Centers on global diplomatic efforts to tackle environmental challenges. This includes gatherings under the UNFCCC, the Paris Agreement, and other multilateral treaties. Key discussions revolve around setting emissions targets, enhancing technology transfer, and providing financial support to nations most affected by climate change, ensuring these accords stay aligned with scientific guidance.",
+            "index": 28
+        },
+        {
+            "class_name": "Sustainable Architecture and Construction",
+            "class_description": "Addresses eco-friendly approaches to building design and construction, conserving resources and minimizing emissions. Examples include energy-efficient technologies, natural insulation, green roofs, and water recycling. Certifications like LEED or BREEAM highlight how structures can reduce operational costs and carbon footprints while prioritizing occupant well-being and environmental benefits.",
+            "index": 29
+        },
+        {
+            "class_name": "Digital Technologies and Sustainability",
+            "class_description": "Examines how digital tools\u2014AI, remote sensing, cloud computing\u2014offer both environmental benefits and challenges. Topics include reducing data centers\u2019 energy needs, managing e-waste, and using IoT for environmental monitoring. The focus is on balancing digital growth with renewable power, improved resource efficiency, and responsible innovation that supports ecological goals.",
+            "index": 30
+        },
+        {
+            "class_name": "Environmental Impact Assessment and Life Cycle Analysis",
+            "class_description": "Explores structured methods for evaluating potential ecological damage before launching products or infrastructure projects. Life cycle analysis examines resource consumption from creation to disposal. These tools guide governments, businesses, and communities in selecting responsible designs, mitigating risks, and promoting best practices for sustainable development.",
+            "index": 31
+        },
+        {
+            "class_name": "Ecological Economics and Sustainable Development",
+            "class_description": "Incorporates environmental integrity and social well-being into economic decision-making. Topics include valuing ecosystem services, integrating externalities into prices, and designing growth models that respect planetary boundaries. By aligning economic policies with conservation principles, governments, private sectors, and civil society can achieve inclusive development without degrading natural resources.",
+            "index": 32
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 33
+        }
+    ]
+}

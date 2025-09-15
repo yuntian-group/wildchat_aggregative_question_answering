@@ -1,0 +1,169 @@
+{
+    "classes": [
+        {
+            "class_name": "VR, AR, and XR Solutions",
+            "class_description": "Focuses on immersive technologies\u2014virtual, augmented, and extended reality\u2014applied to design, prototyping, training, and interactive experiences. It includes advanced headsets, sensors, collaborative platforms, and software frameworks that merge physical and virtual environments for improved visualization, safety drills, and productivity in industrial or educational contexts.",
+            "index": 0
+        },
+        {
+            "class_name": "Blockchain and Decentralized Tech",
+            "class_description": "Covers distributed ledgers, cryptocurrencies, and smart contracts in industrial, financial, or enterprise applications. Explores consensus mechanisms, tokenization, privacy, and regulatory compliance. Relevant use cases include supply chain management, contract automation, and secure data exchange, emphasizing scalability, security, and governance.",
+            "index": 1
+        },
+        {
+            "class_name": "AI and Machine Learning",
+            "class_description": "Encompasses systems that learn from data to perform tasks like predictive analytics, intelligent automation, and natural language processing. Topics include neural networks, decision-making aids, and advanced data interpretation. Stresses optimization of operations, engineering processes, and real-time adaptation in industrial or manufacturing scenarios.",
+            "index": 2
+        },
+        {
+            "class_name": "Cloud, Virtualization, and Enterprise Platforms",
+            "class_description": "Deals with on-demand computing resources and enterprise software ecosystems. Topics span cloud architectures, virtual machines, containerization, ERP, and CRM systems. Emphasizes agility, scalability, high availability, and cost-effectiveness in deploying digital solutions for varied business and industrial needs.",
+            "index": 3
+        },
+        {
+            "class_name": "Mechanical Engineering and Manufacturing",
+            "class_description": "Addresses the design, production, and maintenance of mechanical systems and machinery. Encompasses engines, gear systems, structural components, industrial assembly lines, and manufacturing techniques. Highlights quality control, reliability, and adherence to standards, enabling efficient and safe mechanical solutions in various industries.",
+            "index": 4
+        },
+        {
+            "class_name": "Electrical and Electronics Design",
+            "class_description": "Focuses on circuitry, embedded controllers, power distribution, and electronic device design. Explores issues like signal integrity, electromagnetic compatibility, sensor integration, and board-level components. Stresses robust, efficient solutions for consumer devices, industrial equipment, and automation systems.",
+            "index": 5
+        },
+        {
+            "class_name": "Civil Engineering and Infrastructure",
+            "class_description": "Covers the planning, construction, and maintenance of urban development projects such as roads, bridges, buildings, water systems, and utilities. Emphasizes structural integrity, safety, geotechnical analysis, and adherence to regulations. Addresses sustainable materials, advanced construction methods, and infrastructure resilience.",
+            "index": 6
+        },
+        {
+            "class_name": "Automotive Engineering and Vehicle Technology",
+            "class_description": "Concerns the design and development of cars, trucks, motorcycles, and specialized vehicles. Topics include internal combustion engines, electric and hybrid powertrains, transmissions, safety systems, and emission controls. Explores autonomous driving, connected car tech, and best practices for vehicle performance and durability.",
+            "index": 7
+        },
+        {
+            "class_name": "Aerospace and Space Exploration",
+            "class_description": "Focuses on aircraft, spacecraft, satellites, and related flight technologies. Discusses propulsion, aerodynamics, avionics, materials, and safety protocols. Encompasses space missions, satellite communications, and emerging innovations in orbital research, planetary exploration, and advanced aerospace engineering.",
+            "index": 8
+        },
+        {
+            "class_name": "Military and Defense Technology",
+            "class_description": "Pertains to equipment, systems, and advanced engineering in defense and military applications. Encompasses land, air, and naval solutions, missile and surveillance technologies, and strategic modernization efforts. Highlights testing, durability, and security considerations in high-stakes defense contexts.",
+            "index": 9
+        },
+        {
+            "class_name": "Marine and Offshore Engineering",
+            "class_description": "Deals with shipbuilding, offshore platforms, and marine infrastructures. Includes propulsion systems, hull design, corrosion management, and operational safety at sea. Emphasizes solutions for harnessing marine resources responsibly and designing resilient maritime structures.",
+            "index": 10
+        },
+        {
+            "class_name": "Energy and Sustainable Manufacturing",
+            "class_description": "Explores renewable energy sources such as solar, wind, hydro, and biofuel, as well as low-carbon strategies in industrial processes. Covers energy efficiency, green materials, and innovations like carbon capture. Highlights cost-effective, eco-friendly manufacturing aiming to reduce emissions and resource consumption.",
+            "index": 11
+        },
+        {
+            "class_name": "Robotics, Drones, and Mechatronics",
+            "class_description": "Highlights automated systems integrating mechanical, electronic, and software elements. Includes industrial robots, UAVs (drones), and advanced actuators or motion control. Addresses sensor fusion, control algorithms, AI-driven autonomy, and precision tasks, ranging from assembly lines to remote inspection.",
+            "index": 12
+        },
+        {
+            "class_name": "Industrial Safety and Compliance",
+            "class_description": "Covers workplace safety protocols, risk assessments, and regulatory standards. Explores personal protective equipment, emergency procedures, ISO certifications, and accident prevention strategies. Focuses on ensuring operational safety, continuous improvement, and employee training in industrial settings.",
+            "index": 13
+        },
+        {
+            "class_name": "Industrial Digitalization and Change Management",
+            "class_description": "Addresses the organizational and cultural shifts needed for digitizing industrial operations. Encompasses leadership strategies, stakeholder engagement, and process reengineering. Highlights the challenges of implementing new technologies, aligning teams, and optimizing workflows for better productivity and resilience.",
+            "index": 14
+        },
+        {
+            "class_name": "Networking, Telecommunications, and Cybersecurity",
+            "class_description": "Deals with communication infrastructure and protocols, including wired and wireless solutions such as fiber, Wi-Fi, Bluetooth, 5G, or satellite links. Explores network design, data encryption, and threat mitigation strategies. Emphasizes secure, reliable connectivity in industrial and enterprise environments.",
+            "index": 15
+        },
+        {
+            "class_name": "Hardware Innovation and CPU/GPU Development",
+            "class_description": "Explores the design and manufacturing of microprocessors, graphics processing units, and hardware accelerators. Discusses semiconductor fabrication, parallel computing, thermal management, and specialized modules for AI or gaming. Focuses on breakthroughs in performance, efficiency, and integration that power modern devices.",
+            "index": 16
+        },
+        {
+            "class_name": "Materials Science and Engineering",
+            "class_description": "Studies the properties, processing, and performance of metals, polymers, ceramics, or composites. Explains material selection, testing, and treatments for corrosion prevention, strength, and durability. Emphasizes how novel materials contribute to product reliability, lightweight design, and industrial innovation.",
+            "index": 17
+        },
+        {
+            "class_name": "Digital Media, Broadcasting, and Streaming",
+            "class_description": "Covers technologies for content production, encoding, and delivery. Includes video and audio codecs, streaming infrastructure, and broadcasting standards. Explores ways to ensure optimal quality, low latency, and dependable distribution for entertainment or industrial communication.",
+            "index": 18
+        },
+        {
+            "class_name": "Big Data, IoT, and Smart Systems",
+            "class_description": "Encompasses large-scale data management, sensor networks, and real-time analytics for optimized operations. Explores Internet of Things deployments, edge computing, and data-driven decision-making. Stresses the collection, storage, and analysis of continuous data streams to power intelligent automation and predictive maintenance.",
+            "index": 19
+        },
+        {
+            "class_name": "Biomedical, Biotech, and Wearables",
+            "class_description": "Focuses on engineering innovations in healthcare, such as implantable devices, biotech developments, and monitoring systems. Discusses sensors, portable diagnostics, and wearable technologies. Emphasizes patient safety, regulatory compliance, and how new devices improve treatment, efficiency, and health outcomes.",
+            "index": 20
+        },
+        {
+            "class_name": "Agricultural Engineering and Food Industry",
+            "class_description": "Covers technologies and processes in farming, from precision agriculture to food processing. Examines greenhouse automation, crop monitoring, irrigation, and supply chain solutions for produce. Emphasizes efficiency, product quality, and sustainability to meet global food demands.",
+            "index": 21
+        },
+        {
+            "class_name": "HCI, UI/UX, and Interactive Tech",
+            "class_description": "Highlights the design of intuitive, user-friendly interfaces and interactions. Covers user-centered design processes, accessibility, ergonomics, and interface prototyping. Stresses improving user satisfaction and reducing errors through thoughtful, adaptive software or hardware interaction designs.",
+            "index": 22
+        },
+        {
+            "class_name": "Quantum and High-Performance Computing",
+            "class_description": "Examines emerging computing paradigms such as quantum systems, supercomputers, and parallel architectures. Addresses quantum algorithms, HPC clusters, error correction, and specialized accelerators. Emphasizes solving complex problems, cryptanalytic challenges, and large-scale simulations with unprecedented speed.",
+            "index": 23
+        },
+        {
+            "class_name": "Supply Chain and Logistics Management",
+            "class_description": "Discusses the flow of goods and resources from manufacturing to end consumers. Covers warehousing, real-time tracking, predictive demand planning, and route optimization. Highlights digital transformations in supply chain visibility, cost reduction, and strategic partnerships for global logistics.",
+            "index": 24
+        },
+        {
+            "class_name": "Software Development and Web Frameworks",
+            "class_description": "Centers on creating and maintaining software solutions using modern languages, frameworks, and methodologies. Includes APIs, microservices, DevOps practices, and continuous integration. Emphasizes secure, reliable, and scalable applications that support diverse industrial or business processes.",
+            "index": 25
+        },
+        {
+            "class_name": "3D Printing and Additive Manufacturing",
+            "class_description": "Focuses on layer-by-layer production methods for plastics, metals, or composites. Examines process types such as FDM, SLS, or SLA, along with design considerations, support structures, and post-processing techniques. Highlights advantages in prototyping, customization, and efficient small-batch manufacturing.",
+            "index": 26
+        },
+        {
+            "class_name": "Data Storage and Retention",
+            "class_description": "Addresses methods to store, manage, and protect data over time. Covers backup strategies, RAID, cloud storage, and disaster recovery planning to ensure reliable access and long-term data integrity. Emphasizes scalability, redundancy, and adherence to regulatory norms.",
+            "index": 27
+        },
+        {
+            "class_name": "Engineering Education and STEM Training",
+            "class_description": "Covers teaching methods, curricula design, and skills development for engineering and technology fields. Examines hands-on projects, lab activities, e-learning platforms, and professional training. Stresses practical competencies, industry partnerships, and promoting innovation in STEM.",
+            "index": 28
+        },
+        {
+            "class_name": "Product Design and Industrial Innovation",
+            "class_description": "Examines the full product lifecycle\u2014from ideation and prototyping to market launch. Discusses user-centric design, industrial feasibility, and manufacturing optimization. Highlights how innovation and new technologies drive competitive differentiation, streamline production, and meet consumer or industrial needs.",
+            "index": 29
+        },
+        {
+            "class_name": "Gaming Technology and eSports",
+            "class_description": "Focuses on real-time rendering, game engines, and hardware optimizations for interactive experiences. Discusses multiplayer architectures, VR/AR gaming, and AI-driven dynamics. Addresses competitive gaming (eSports), describing the infrastructure and technical requirements for seamless, high-performance gameplay.",
+            "index": 30
+        },
+        {
+            "class_name": "Consumer Electronics and Gadgets",
+            "class_description": "Covers devices such as smartphones, laptops, personal printers, and wearables. Explores hardware features, operating systems, connectivity, and user-friendly designs. Emphasizes product comparisons, market trends, reliability, and everyday usability across entertainment, communication, and computing devices.",
+            "index": 31
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 32
+        }
+    ]
+}

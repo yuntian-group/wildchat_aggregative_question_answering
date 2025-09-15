@@ -1,0 +1,84 @@
+{
+    "classes": [
+        {
+            "class_name": "Employment Documentation & Verification",
+            "class_description": "Focuses on obtaining, verifying, or correcting formal documents related to employment. This includes certificates of work, recommendation letters, official proofs of work history, and accurate record-keeping. It ensures individuals have the necessary paperwork to support job applications or career transitions, addressing compliance and legal requirements in the process.",
+            "index": 0
+        },
+        {
+            "class_name": "Resume & CV Enhancement",
+            "class_description": "Centers on structuring, formatting, and refining resumes or CVs to highlight relevant skills, accomplishments, and experiences. Emphasizes using targeted keywords, maintaining clarity and conciseness, and aligning the document with industry or role-specific requirements. Helps job seekers optimize their professional profiles for applicant tracking systems and recruiter attention.",
+            "index": 1
+        },
+        {
+            "class_name": "Cover Letters & SOPs",
+            "class_description": "Addresses writing clear, persuasive cover letters or statements of purpose for professional or academic endeavors. Focuses on aligning personal interests and experiences with the organization's or institution's needs. Encourages individuals to demonstrate their motivations, achievements, and fit through a tailored narrative that resonates with hiring managers or admissions committees.",
+            "index": 2
+        },
+        {
+            "class_name": "Interview Preparation & Techniques",
+            "class_description": "Guides individuals in thoroughly researching the company, anticipating role-specific questions, and practicing effective communication. Covers presentation, body language, punctuality, and structured response methods such as the STAR approach. Also provides strategies for both in-person and virtual interviews to boost confidence and improve success rates.",
+            "index": 3
+        },
+        {
+            "class_name": "LinkedIn & Personal Branding",
+            "class_description": "Focuses on establishing a strong online presence through LinkedIn and other professional platforms. Guides individuals in showcasing expertise, achievements, and industry involvement. Encourages optimization of profiles, effective content sharing, and consistent personal branding to attract recruiters and relevant connections.",
+            "index": 4
+        },
+        {
+            "class_name": "Salary & Compensation Guidance",
+            "class_description": "Offers insights into market salary ranges, total rewards, and negotiation tactics for fair pay. Helps individuals assess and compare compensation, factoring in benefits, bonuses, and career progression potential. Equips job seekers with the confidence and knowledge to advocate for equitable remuneration.",
+            "index": 5
+        },
+        {
+            "class_name": "Job Search & Networking Strategies",
+            "class_description": "Provides structured approaches for discovering employment opportunities, from online platforms to career fairs and direct outreach. Emphasizes targeted communication, company research, and relationship-building through referrals and events. Encourages proactive engagement with peers and professionals to expand connections and uncover hidden job leads.",
+            "index": 6
+        },
+        {
+            "class_name": "Freelancing & Entrepreneurship",
+            "class_description": "Covers fundamentals of self-employment, from creating service portfolios to pricing competitively. Discusses attracting clients, managing projects, and scaling a solo venture or startup. Encourages innovation in personal branding, alongside robust planning and execution for sustainable freelancing or entrepreneurial success.",
+            "index": 7
+        },
+        {
+            "class_name": "Skill Development & Advanced Education",
+            "class_description": "Advises on acquiring new competencies through professional courses, certifications, or advanced degrees. Supports identifying training programs and reputable institutions that enhance employability. Emphasizes continuous learning, staying current with industry developments, and investing in education to drive career growth and adaptability.",
+            "index": 8
+        },
+        {
+            "class_name": "Career Transitions & Upskilling",
+            "class_description": "Guides individuals exploring a new field or changing roles. Focuses on leveraging transferable skills, bridging knowledge gaps, and overcoming common barriers when switching careers. Encourages a structured transition plan, strategic market research, and targeted skill-building to ensure a successful move into more promising opportunities.",
+            "index": 9
+        },
+        {
+            "class_name": "Industry-Specific Career Advice",
+            "class_description": "Delivers customized insights for particular sectors, such as healthcare, tech, finance, or education. Highlights standard roles, in-demand qualifications, and emerging trends within each industry. Helps professionals understand relevant regulations, best practices, and essential skills to thrive in specialized career paths.",
+            "index": 10
+        },
+        {
+            "class_name": "Leadership & Team Management",
+            "class_description": "Centers on effectively leading and inspiring teams. Includes setting objectives, clarifying roles, handling conflict, and providing mentorship. Promotes a collaborative environment where team members are encouraged to grow professionally, fostering productivity, mutual respect, and alignment with organizational goals.",
+            "index": 11
+        },
+        {
+            "class_name": "Workplace Culture & Dynamics",
+            "class_description": "Explores behavior, communication, and interpersonal relationships in a professional setting. Addresses cultural variations, conflict resolution, and strategies for adapting to diverse work environments. Encourages inclusive practices, constructive feedback, and an atmosphere of trust that supports job satisfaction and career progression.",
+            "index": 12
+        },
+        {
+            "class_name": "Negotiation & Employment Contracts",
+            "class_description": "Covers navigating work agreements and relevant clauses, such as notice periods, benefits, and role-specific perks. Equips individuals to read and understand contracts thoroughly, negotiating terms to protect their interests. Encourages transparent communication and documentation to secure favorable arrangements aligned with career targets.",
+            "index": 13
+        },
+        {
+            "class_name": "Recruitment & Talent Acquisition",
+            "class_description": "Provides guidance for HR professionals and hiring managers on creating effective job postings, screening candidates, and conducting fair evaluations. Addresses sourcing strategies, candidate experience, and employer branding. Encourages clear communication, transparency, and consistency in matching qualified applicants with organizational needs.",
+            "index": 14
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 15
+        }
+    ]
+}

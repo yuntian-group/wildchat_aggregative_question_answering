@@ -1,0 +1,109 @@
+{
+    "classes": [
+        {
+            "class_name": "Overcoming Addictions and Harmful Habits",
+            "class_description": "This category addresses individuals wishing to break free from unhealthy dependencies or compulsive behaviors. Advice often involves recognizing triggers, seeking professional or community support, and nurturing healthier coping mechanisms. Emphasis is placed on fostering self-awareness, consistency, and motivation to gradually replace destructive patterns with constructive habits, ultimately improving overall well-being.",
+            "index": 0
+        },
+        {
+            "class_name": "Exploring Personal Values and Choices",
+            "class_description": "This category covers decisions based on personal beliefs, moral principles, or cultural considerations. Users may seek clarity in aligning actions with deeper ideals, reconciling differences with friends or family, or navigating ethical dilemmas. Guidance encourages self-reflection, open-minded discussion, and confidence in making decisions that authentically reflect core values.",
+            "index": 1
+        },
+        {
+            "class_name": "Navigating Romance and Dating",
+            "class_description": "Individuals in this category seek advice on finding, maintaining, or ending romantic connections. Questions can include showing interest to someone new, interpreting signals, setting healthy boundaries, and handling breakups. Emphasis is on respectful communication, emotional honesty, and personal well-being while exploring or nurturing intimate partnerships.",
+            "index": 2
+        },
+        {
+            "class_name": "Managing Unwanted Contact and Boundaries",
+            "class_description": "This category addresses situations where users must handle intrusive behavior or overstepped limits. Guidance includes clearly communicating personal boundaries, navigating uncomfortable or harassing interactions, and taking protective steps if necessary. The goal is to maintain emotional well-being, safety, and autonomy in stressful or repetitive conflicts.",
+            "index": 3
+        },
+        {
+            "class_name": "Supporting Mental Health and Well-Being",
+            "class_description": "Users here may seek to cope with stress, depression, anxiety, or other emotional challenges. Suggestions include professional counseling, mindfulness, relaxation techniques, and self-care routines. The focus is on fostering resilience, healthy thought patterns, and practices that promote stable mental wellness and positive daily functioning.",
+            "index": 4
+        },
+        {
+            "class_name": "Offering Emotional Support and Love",
+            "class_description": "This category focuses on providing empathy, reassurance, and comfort to someone going through hardship. Users look for ways to be a compassionate listener, validate emotions, and offer consistent presence. The aim is to nurture closeness and trust, reinforcing the other person's sense of security and belonging.",
+            "index": 5
+        },
+        {
+            "class_name": "Guiding Family, Parenting, and Caregiving",
+            "class_description": "Advice in this category addresses family-related challenges, including raising children, caring for elderly relatives, or navigating in-laws and co-parenting. Emphasis is placed on empathy, setting healthy household dynamics, constructive discipline, and balancing responsibilities. The goal is to promote supportive, respectful family relationships for everyone involved.",
+            "index": 6
+        },
+        {
+            "class_name": "Coping with Grief and Loss",
+            "class_description": "Users who have experienced a recent death or significant loss seek comfort and ways to process intense emotions. Guidance centers on acknowledging grief, honoring memories, and gradually finding meaning in life again. This may include recommendations of professional grief counseling, sharing with support networks, and healthy avenues of remembrance.",
+            "index": 7
+        },
+        {
+            "class_name": "Handling Career and Workplace Challenges",
+            "class_description": "This category involves work-related stress, conflicts, or decisions about employment. Guidance addresses coworker disputes, job changes, managing burnout, or balancing personal and professional life. The focus is on effective communication, alignment of career choices with well-being, and possible strategies to advance or transition without harming mental health.",
+            "index": 8
+        },
+        {
+            "class_name": "Boosting Self-Confidence and Esteem",
+            "class_description": "Advice here helps users overcome self-doubt, feel more secure in their abilities, and cultivate a healthier self-image. Strategies include positive self-talk, celebration of small victories, and reframing negative thoughts. By steadily reinforcing evidence of their strengths, individuals build long-term resilience and belief in their own value.",
+            "index": 9
+        },
+        {
+            "class_name": "Enhancing Personal Growth and Discipline",
+            "class_description": "This category includes requests for self-improvement techniques, time management, and motivation. Users strive to develop routines, break procrastination, and set meaningful goals. Approaches highlight accountability, perseverance, and reflective learning from setbacks. The aim is a structured path toward better habits, skills, and achievements in both personal and professional domains.",
+            "index": 10
+        },
+        {
+            "class_name": "Building Communication and Social Skills",
+            "class_description": "Users here seek to improve interpersonal effectiveness. Topics include active listening, conflict resolution, social anxiety management, or persuasion. Advice emphasizes clarity, empathy, respectful boundaries, and adapting to different social scenarios. The result is more productive, trust-based connections in both personal and group settings.",
+            "index": 11
+        },
+        {
+            "class_name": "Seeking Apologies, Forgiveness, and Trust",
+            "class_description": "This category deals with mending strained relationships or remedying past mistakes. Guidance covers expressing genuine remorse, demonstrating changed behavior, and patiently rebuilding broken trust. It also includes learning to forgive oneself or others to move past resentment and create healthier dynamics in the future.",
+            "index": 12
+        },
+        {
+            "class_name": "Addressing Financial Management and Housing",
+            "class_description": "Individuals with concerns about budgeting, housing arrangements, or financial stability fit here. Advice covers planning expenses, dividing costs fairly with a partner, or exploring new living opportunities. Encouragement includes setting clear financial goals, consulting resources such as financial advisors, and protecting long-term well-being through responsible decision-making.",
+            "index": 13
+        },
+        {
+            "class_name": "Improving Physical Health and Body Image",
+            "class_description": "Inquiries about fitness, nutrition, or self-perception of appearance fall under this category. Advice includes creating balanced exercise routines, adjusting dietary habits, and adopting gentler self-talk about body image. Users are encouraged to set realistic benchmarks, celebrate incremental progress, and maintain supportive environments that foster sustained health improvements.",
+            "index": 14
+        },
+        {
+            "class_name": "Recovering from Breakups and Heartache",
+            "class_description": "This category offers guidance to those dealing with the end of a romantic or close emotional relationship. It covers healthy ways to grieve, manage remorse or anger, and rebuild self-identity. Emphasis is on reflection, social support, learning from the experience, and gradually renewing optimism for future connections.",
+            "index": 15
+        },
+        {
+            "class_name": "Navigating Sexual Intimacy, Consent, and Well-Being",
+            "class_description": "Users seek advice on matters of sexual health, desire differences, or exploring intimacy. Focus is on open, honest communication around needs, consent, and emotional comfort. It encourages respect for personal boundaries, ensuring both partners feel safe, informed, and satisfied with their sexual experiences.",
+            "index": 16
+        },
+        {
+            "class_name": "Embracing Identity and Lifestyle Transitions",
+            "class_description": "This category assists those undergoing significant changes in self-identity or daily living circumstances. Users may explore gender identity, sexual orientation, cultural shifts, or starting anew in a different environment. Guidance involves self-acceptance, honest self-expression, and connecting with supportive communities, aiming for authenticity and emotional resilience.",
+            "index": 17
+        },
+        {
+            "class_name": "Handling Emergencies, Threats, or Crises",
+            "class_description": "Here, users face urgent or dangerous situations and need immediate guidance. Advice may include contacting authorities, maintaining documented evidence, and reaching out for professional crisis support. The ultimate goal is to preserve personal safety, defuse potential harm, and navigate a pathway toward secure resolution.",
+            "index": 18
+        },
+        {
+            "class_name": "Seeking Legal Guidance and Protective Measures",
+            "class_description": "This category covers users concerned about legal matters or formal protection from harassment or fraud. Suggestions include learning about rights, documenting problematic behaviors, and consulting attorneys, mediators, or law enforcement when necessary. The emphasis is on safeguarding oneself and coordinating steps responsibly to manage escalating conflicts.",
+            "index": 19
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 20
+        }
+    ]
+}

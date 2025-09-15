@@ -1,0 +1,74 @@
+{
+    "classes": [
+        {
+            "class_name": "Customer Service & Complaints",
+            "class_description": "Focuses on interactions where customers seek help, refunds, or dispute resolutions for services and products. This includes addressing misleading sales practices, negotiating cancellations or refunds, clarifying fees, and ensuring proper warranty or post-sale support. Dialogues often involve managing customer satisfaction issues and post-sale queries in a business setting.",
+            "index": 0
+        },
+        {
+            "class_name": "Supply Chain & Logistics",
+            "class_description": "Covers the flow of goods, including procurement, shipping, transportation, customs, and warehousing. Discussions involve coordinating freight, managing inventory, ensuring timely deliveries, and dealing with any distribution-related issues or process optimizations.",
+            "index": 1
+        },
+        {
+            "class_name": "Digital Marketing & Social Media",
+            "class_description": "Encompasses strategies and tools for promoting products or services online. Topics include search engine optimization, social media campaigns, influencer marketing, paid advertising, email outreach, and content marketing. Dialogues focus on engaging audiences, building brand awareness, and improving visibility through digital channels.",
+            "index": 2
+        },
+        {
+            "class_name": "Wholesale & B2B Distribution",
+            "class_description": "Relates to business-to-business transactions and volume sales. It includes negotiating bulk pricing, establishing reseller or channel partnerships, direct supply from manufacturers, and expanding market reach through distribution networks tailored toward large-volume or corporate buyers.",
+            "index": 3
+        },
+        {
+            "class_name": "Corporate Governance & Leadership",
+            "class_description": "Examines top-level decision-making, organizational structures, and executive roles. Discussions may involve board responsibilities, strategic oversight, leadership styles, resource allocation, and long-term planning that shape a company's objectives and direction.",
+            "index": 4
+        },
+        {
+            "class_name": "Careers & Professional Development",
+            "class_description": "Covers recruitment, job transitions, upskilling, and training programs. This category includes writing cover letters or resumes, talent acquisition strategies, performance reviews, career advisement, and other initiatives that foster workforce growth and productivity.",
+            "index": 5
+        },
+        {
+            "class_name": "Investments & Financial Markets",
+            "class_description": "Focuses on placing capital into stocks, bonds, crypto, or other assets. Topics often include market analysis, portfolio strategies, trading, IPOs, speculation, risk management, and news or trends that may affect financial instruments and investor decisions.",
+            "index": 6
+        },
+        {
+            "class_name": "Banking & Monetary Policies",
+            "class_description": "Relates to loans, credit facilities, central bank interventions, and currency or interest rate management. Dialogues may address refinancing, deposit rates, inflation, and government or institutional efforts to stabilize or influence broader economic and financial conditions.",
+            "index": 7
+        },
+        {
+            "class_name": "Accounting & Financial Reporting",
+            "class_description": "Covers bookkeeping, budgeting, audits, and the preparation or interpretation of financial statements. Topics can include taxation, IFRS or GAAP compliance, cost accounting, profit or loss evaluations, and key performance indicators crucial for understanding a business\u2019s financial health.",
+            "index": 8
+        },
+        {
+            "class_name": "Legal & Regulatory Compliance",
+            "class_description": "Focuses on business licensing, contracts, consumer protection laws, legal disputes, and adherence to regulations. This includes examining tax obligations, intellectual property issues, data privacy requirements, and ensuring business structures or activities meet legal standards.",
+            "index": 9
+        },
+        {
+            "class_name": "Entrepreneurship & Startups",
+            "class_description": "Centers on forming or scaling new ventures. Discussions address business ideation, raising funds, pitching to investors, building a minimum viable product, collaborating with co-founders, and exploring growth strategies that help early-stage companies succeed.",
+            "index": 10
+        },
+        {
+            "class_name": "Economic Trends & Macro Outlook",
+            "class_description": "Examines broader economic factors that influence businesses, such as GDP growth, inflation, employment data, trade balances, or geopolitical events. Dialogues highlight how macro-level developments affect corporate operations, consumer behavior, and financial decision-making.",
+            "index": 11
+        },
+        {
+            "class_name": "Business Operations & Quality Management",
+            "class_description": "Addresses the practical running of organizations, including establishing SOPs, optimizing processes, aligning resources, and ensuring product or service consistency. Topics involve internal workflows or policies, ISO standards, continuous improvement methods, and day-to-day operational management aimed at achieving strategic objectives.",
+            "index": 12
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 13
+        }
+    ]
+}

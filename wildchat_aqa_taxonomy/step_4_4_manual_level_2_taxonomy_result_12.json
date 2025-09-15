@@ -1,0 +1,119 @@
+{
+    "classes": [
+        {
+            "class_name": "Hair and Personal Grooming",
+            "class_description": "Focuses on hair-related topics and broader grooming practices, such as styling, coloring, extensions, and haircare routines. Encompasses facial or body hair maintenance, protective styling, and product usage (oils, masks, etc.). Encourages creativity, personal expression, and proper care routines that suit different hair types and personal preferences.",
+            "index": 0
+        },
+        {
+            "class_name": "Exploring fashion and accessories",
+            "class_description": "Covers clothing styles, seasonal outfits, shoes, bags, and jewelry. Discusses selecting pieces that complement individual body shapes, suit various events, and reflect personal aesthetics. Encourages discovering trends, maintaining cultural sensitivity, and cultivating confidence in one\u2019s fashion choices.",
+            "index": 1
+        },
+        {
+            "class_name": "Beauty, makeup, and self-care",
+            "class_description": "Encompasses skincare routines, makeup application, nail art, and fragrance selection. Provides insight into effective products, techniques, and habits for maintaining healthy skin and nails. Stresses the importance of relaxation, self-confidence, and personal expression through beauty practices.",
+            "index": 2
+        },
+        {
+            "class_name": "Minimalist living and conscious habits",
+            "class_description": "Centers on a simplified lifestyle by reducing excess belongings, practicing intentional spending, and organizing living or workspaces to foster mental clarity. Encourages mindful consumption, prioritizing quality over quantity, and aligning daily habits with personal values. Supports greater well-being and reduced stress.",
+            "index": 3
+        },
+        {
+            "class_name": "Costumes and cosplay",
+            "class_description": "Highlights inventive dressing for character portrayals in cosplay, theatrical performances, or fantasy-themed events. Covers makeup, wardrobe creation, and prop-making that bring fictional or imaginative personas to life. Fosters creativity, meticulous design skills, and enjoyment of costumed gatherings.",
+            "index": 4
+        },
+        {
+            "class_name": "Cooking, baking, and culinary hobbies",
+            "class_description": "Focuses on exploring recipes, food preparation techniques, and tasting global cuisines. Encourages experimentation with diverse ingredients and dietary preferences, fostering enjoyment in crafting homemade dishes. Emphasizes exploring personal flair in the kitchen and sharing meals with others.",
+            "index": 5
+        },
+        {
+            "class_name": "Travel, tourism, and new adventures",
+            "class_description": "Discusses visiting local or international destinations, immersing in new cultures, and discovering unique attractions. Includes advice on packing, budgeting, accommodations, and respectful engagement with local customs. Encourages personal growth, memorable experiences, and broadened worldviews through exploration.",
+            "index": 6
+        },
+        {
+            "class_name": "Health, sports, and active living",
+            "class_description": "Concentrates on physical well-being through fitness activities, balanced nutrition, sports participation, or wellness routines. Covers everything from workout strategies to healthy diet tips, aiming to enhance vitality, manage stress, and support an active, fulfilling lifestyle.",
+            "index": 7
+        },
+        {
+            "class_name": "Pets, animals, and responsible care",
+            "class_description": "Concerns the ethical and practical aspects of keeping animals such as cats, dogs, fish, or exotic species. Addresses feeding, grooming, training, and adapting environments for pet well-being. Fosters strong pet-owner bonds through compassionate, attentive care.",
+            "index": 8
+        },
+        {
+            "class_name": "Outdoor Recreation and Camping",
+            "class_description": "Highlights nature-based pursuits, including camping, hiking, fishing, or backpacking. Advises on gear selection, safety measures, and strategies for enjoying scenic surroundings responsibly. Encourages deepening one\u2019s connection with nature through immersive outdoor experiences.",
+            "index": 9
+        },
+        {
+            "class_name": "Creative crafts and DIY projects",
+            "class_description": "Covers hands-on activities such as crocheting, knitting, papercrafts, and home d\u00e9cor creation. Emphasizes learning various crafting techniques, sharing knowledge, and producing unique, handmade items. Fosters creativity, personal expression, and enjoyment through practical artistry.",
+            "index": 10
+        },
+        {
+            "class_name": "Home organization and interior comfort",
+            "class_description": "Addresses effective space utilization, decluttering, and interior design to enhance daily living. Involves storage solutions, furniture arrangement, and d\u00e9cor elements that reflect personal style. Aims to create welcoming, functional, and aesthetically pleasing home environments.",
+            "index": 11
+        },
+        {
+            "class_name": "Social events, parties, and gatherings",
+            "class_description": "Covers planning and enjoying events like weddings, birthdays, or casual get-togethers. Offers guidance on themes, d\u00e9cor, menu ideas, and guest activities. Encourages building meaningful connections and memorable celebrations among friends, family, and communities.",
+            "index": 12
+        },
+        {
+            "class_name": "Digital lifestyle and social media presence",
+            "class_description": "Explores responsible and purposeful use of digital tools, such as social networking, online content creation, and branding. Discusses time management, privacy, and moderating screen time. Helps maintain a balanced relationship between virtual interactions and offline life.",
+            "index": 13
+        },
+        {
+            "class_name": "Music, dance, and performing arts",
+            "class_description": "Covers musical instrument learning, exploring genres, singing, dancing, or performing on stage. Highlights personal growth, self-expression, and cultural appreciation through artistic pursuits. Encourages skill development, collaboration, and community engagement in shared creative spaces.",
+            "index": 14
+        },
+        {
+            "class_name": "Personal expression, identity, and body positivity",
+            "class_description": "Celebrates individualized presentations of style, including gender expression, crossdressing, or exploring body image. Encourages self-acceptance, respect for personal journeys, and embracing unique traits with confidence. Fosters a safe environment for authenticity and self-discovery.",
+            "index": 15
+        },
+        {
+            "class_name": "Productivity and time management",
+            "class_description": "Focuses on strategies for organizing tasks, setting goals, and maintaining efficient routines. Addresses scheduling tools, methods for reducing distractions, and techniques for staying motivated. Seeks to enhance daily effectiveness and decrease stress, supporting both personal and professional aspirations.",
+            "index": 16
+        },
+        {
+            "class_name": "Spirituality, meditation, and mindfulness",
+            "class_description": "Encompasses reflective practices such as meditation, journaling, and deep breathing to foster mental serenity and self-awareness. May include broader spiritual or philosophical discussions. Encourages finding balance, clarity, and empathy in daily life for holistic well-being.",
+            "index": 17
+        },
+        {
+            "class_name": "Relationships, family, and social bonding",
+            "class_description": "Focuses on building and maintaining strong connections, whether romantic, familial, or platonic. Covers communication approaches, conflict resolution, and parenting philosophies. Encourages heartfelt support, understanding, and shared activities that deepen bonds among individuals.",
+            "index": 18
+        },
+        {
+            "class_name": "Seasonal festivities and holiday decorating",
+            "class_description": "Centers on celebrating festive periods through thematic d\u00e9cor, special meals, and cultural traditions. Explores color schemes, ornamentation, and creative ideas for seasonal gatherings. Promotes a sense of joy, unity, and holiday spirit among friends and family.",
+            "index": 19
+        },
+        {
+            "class_name": "Games, collecting, and playful hobbies",
+            "class_description": "Highlights leisurely pursuits like board games, video games, puzzles, or hobbyist collections. Explores strategies, equipment, social dynamics, and the thrill of discovery in gathering unique items. Encourages mental engagement, creativity, and sociability through interactive pastimes.",
+            "index": 20
+        },
+        {
+            "class_name": "Gardening and horticulture",
+            "class_description": "Explores growing and nurturing plants, whether flowers, vegetables, or ornamental greenery, indoors or outdoors. Offers guidance on soil preparation, watering, pruning, and eco-friendly practices. Encourages a gratifying connection to nature while fostering sustainable and tranquil living environments.",
+            "index": 21
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 22
+        }
+    ]
+}

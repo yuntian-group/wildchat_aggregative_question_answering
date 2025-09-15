@@ -1,0 +1,89 @@
+{
+    "classes": [
+        {
+            "class_name": "Violent Crimes",
+            "class_description": "Focuses on criminal acts where the principal harm is physical violence against a person, including murder, manslaughter, assault, battery, and kidnapping. These offenses often involve intent or extreme recklessness resulting in bodily harm or death. Investigations typically utilize forensic analysis and witness testimony, while sentences reflect the severity of harm inflicted on individuals and the inherent threat to public safety.",
+            "index": 0
+        },
+        {
+            "class_name": "Sexual Crimes",
+            "class_description": "Encompasses offenses involving non-consensual or otherwise prohibited sexual acts, such as rape, sexual assault, and child sexual exploitation. These crimes gravely violate personal autonomy and bodily integrity. Punishments can include long prison terms, registry requirements for offenders, and strict post-release monitoring, reflecting society\u2019s imperative to protect vulnerable persons from sexual violence.",
+            "index": 1
+        },
+        {
+            "class_name": "Robbery, Theft, and Property Offenses",
+            "class_description": "Addresses crimes targeting personal or organizational property, including theft, burglary, robbery, and vandalism. Robbery specifically involves taking property by force or threat. Penalties vary according to the harm caused, the value of the property, and the perpetrator\u2019s use of weapons or violence. Enforcement in this category upholds ownership rights and ensures trust in both personal and commercial transactions.",
+            "index": 2
+        },
+        {
+            "class_name": "Terrorism, War Crimes, Treason, and Political Violence",
+            "class_description": "Covers large-scale, politically motivated acts threatening national or global security, such as terrorist attacks, war crimes, espionage, treason, or politically driven violence. These offenses can destabilize regions or undermine government functionality. Investigations often require international coordination, and punishments are harsh due to the extensive harm inflicted on society and the violation of foundational legal or ethical norms.",
+            "index": 3
+        },
+        {
+            "class_name": "Drug-Related Offenses",
+            "class_description": "Focuses on criminal activities involving controlled substances, such as the cultivation, manufacture, trafficking, or distribution of illegal drugs. Law enforcement often employs undercover operations and surveillance to dismantle drug networks. Penalties typically increase with the quantity of drugs involved or the degree of organizational involvement, reflecting an effort to safeguard public health and minimize the harms of drug misuse.",
+            "index": 4
+        },
+        {
+            "class_name": "Financial, Fraud, and Cyber Offenses",
+            "class_description": "Encompasses crimes involving misrepresentation or unlawful manipulation of financial systems and digital technologies, such as fraud, money laundering, hacking, identity theft, and phishing schemes. Offenders may face fines, seizure of assets, and imprisonment. Authorities rely on financial auditors, digital forensic experts, and cross-border cooperation to identify, trace, and prosecute these activities.",
+            "index": 5
+        },
+        {
+            "class_name": "Civil Litigation and Consumer Protection",
+            "class_description": "Covers non-criminal legal disputes and consumer rights issues, such as breach of contract, landlord\u2013tenant disagreements, inheritance claims, and product liability. Parties may seek compensatory damages, injunctions, or other civil remedies. Consumer protection laws ensure fair dealings and allow buyers to pursue legal relief when goods or services fail to meet applicable standards.",
+            "index": 6
+        },
+        {
+            "class_name": "Family and Marital Law",
+            "class_description": "Addresses legal aspects of domestic relationships, including marriage, divorce, child custody, alimony, and adoption. Courts prioritize the welfare of children, equitable distribution of assets, and clear resolution of disputes among family members. This category ensures that marital and parental rights are respected and that family-related matters are resolved with minimal harm to dependents.",
+            "index": 7
+        },
+        {
+            "class_name": "Immigration and Border Control",
+            "class_description": "Regulates the movement of non-citizens across national boundaries, encompassing visa procedures, asylum claims, deportation, and residency permits. Authorities balance national security and resource limitations with humanitarian obligations. Noncompliance with immigration rules can lead to fines or removal from the country, using legal frameworks designed to maintain orderly borders and proper documentation.",
+            "index": 8
+        },
+        {
+            "class_name": "Regulatory Compliance and Licensing",
+            "class_description": "Applies to adherence with legal mandates and the acquisition of necessary permits or licenses. Examples include environmental regulations, health and safety standards, data protection laws, and sector-specific certifications. Violations can result in fines, revocation of licenses, or other sanctions. Regulatory regimes aim to protect the public, ensure market fairness, and uphold industry best practices.",
+            "index": 9
+        },
+        {
+            "class_name": "Constitutional Rights and Civil Liberties",
+            "class_description": "Protects core freedoms enshrined in a constitution or similar foundational legal framework, including freedom of speech, religion, or assembly, as well as procedural fairness and privacy rights. Courts carefully examine possible infringements to maintain equilibrium between individual liberties and broader societal interests. Remedies may include injunctions, declaratory relief, or striking down unconstitutional provisions.",
+            "index": 10
+        },
+        {
+            "class_name": "Employment and Labor Law",
+            "class_description": "Encompasses regulations relating to the workplace, including contracts, wages, hours, safety standards, and anti-discrimination measures. Disputes can arise from wrongful termination, wage claims, or harassment. Enforcement mechanisms protect both employee and employer rights, fostering fair, safe, and equitable job conditions in various industries.",
+            "index": 11
+        },
+        {
+            "class_name": "Judicial Process and Court Administration",
+            "class_description": "Pertains to the organizational structure and procedural conduct of courts, including evidence rules, appeals processes, and inter-jurisdictional collaboration. Topics include jury selection, the use of technology in managing caseloads, and cross-border enforcement of judgments. Effective judicial administration upholds the rule of law, balancing efficiency with equitable access for litigants.",
+            "index": 12
+        },
+        {
+            "class_name": "Intellectual Property and Copyright",
+            "class_description": "Safeguards creations of the mind, such as inventions, literary works, and brand identities, by means of patents, copyrights, or trademarks. Infringement occurs when protected material is used or distributed without authorization. Legal remedies might include injunctions, damages, or criminal penalties. Such protections encourage innovation and fair competition in research, artistry, and commerce.",
+            "index": 13
+        },
+        {
+            "class_name": "Public Order Offenses",
+            "class_description": "Centers on acts that disturb community peace and safety without necessarily involving severe physical harm, such as disorderly conduct, animal cruelty, or hate speech. Sanctions may include fines, short incarceration, or mandated community service. Public order laws aim to prevent disruptive behaviors that threaten social harmony and public well-being.",
+            "index": 14
+        },
+        {
+            "class_name": "Corruption and Abuse of Power",
+            "class_description": "Involves unlawful exploitation of public or private authority for personal benefit or political advantage, such as bribery of officials, embezzlement, or extortion. Investigations rely on forensic accounting, whistleblower information, and robust oversight. Punishments tend to be severe to deter illicit conduct that corrodes trust in institutions and undermines equitable governance.",
+            "index": 15
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 16
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "class_name": "Cultural, Heritage & City Experiences",
+            "class_description": "This category covers trips centered on exploring historical, artistic, and modern urban settings. It includes visits to museums, monuments, architectural landmarks, cultural festivals, and neighborhoods with a rich heritage. Dialogues typically involve learning about local art, music, traditions, and city lifestyles. Travelers seeking immersive experiences in a region\u2019s cultural roots or vibrant downtown life\u2014such as touring ancient ruins, admiring contemporary street art, or mingling with residents at popular urban spots\u2014belong here. The focus is on understanding the local culture, customs, and historical contexts that shape a destination\u2019s unique identity.",
+            "index": 0
+        },
+        {
+            "class_name": "Beach, Coastal & Cruise Tourism",
+            "class_description": "This category is dedicated to travelers exploring seaside locations or embarking on ocean voyages. It encompasses beach getaways, coastal resorts, water-based pursuits like snorkeling, surfing, or sailing, and large-scale cruise adventures with onboard activities. Travelers often discuss sunbathing venues, marine wildlife tours, or relaxing by the waterfront. Whether it\u2019s a short seaside retreat or a full-scale voyage that includes multiple port stops, any ocean-oriented or coastal vacation planning belongs here.",
+            "index": 1
+        },
+        {
+            "class_name": "Culinary & Dining",
+            "class_description": "This category centers on food-focused journeys and gastronomy. Discussions revolve around seeking or recommending specific restaurants, cafes, street vendors, or local markets. Travelers delve into signature dishes, regional specialties, food tours, or dining etiquette. Whether someone is exploring restaurant options in a new city, hunting for hidden street-food gems, or comparing global cuisines, the emphasis is on savoring flavorful experiences and discovering the culinary character of a destination.",
+            "index": 2
+        },
+        {
+            "class_name": "Adventure & Outdoor Activities",
+            "class_description": "This category includes thrill-seeking and nature-immersion pursuits. Conversations here highlight hiking, mountaineering, skiing, surfing, horseback riding, wildlife safaris, or any physically engaging activity in open-air settings. Travelers compare recommended gear, safety precautions, trail levels, and ideal seasons for outdoor sports. Whether it\u2019s trekking through national parks, climbing rugged cliffs, or enjoying a guided kayaking trip, the focus is on energetic adventures that bring travelers in close contact with nature.",
+            "index": 3
+        },
+        {
+            "class_name": "Entertainment & Nightlife",
+            "class_description": "This category covers a wide range of leisure venues and after-dark highlights. It includes clubs, bars, late-night music events, live performances, amusement parks, and themed entertainment complexes. Discussions often involve cover charges, dress codes, local nightlife hotspots, festival schedules, or family-friendly entertainment options. Whether someone is looking for a dancing scene, a vibrant carnival, or an adrenaline-packed theme park, the spotlight falls on fun and memorable activities that enrich the travel experience.",
+            "index": 4
+        },
+        {
+            "class_name": "Visa & Travel Documentation",
+            "class_description": "This category addresses all legal and administrative requirements for crossing borders or residing temporarily in a new country. Topics include visa processes, passport validity, immigration paperwork, transit permits, and embassy visits. Any inquiry about visa classifications, renewing travel documents, or meeting official entry requirements falls under this domain. The emphasis is on ensuring travelers have the correct paperwork and knowledge to navigate regulatory procedures smoothly.",
+            "index": 5
+        },
+        {
+            "class_name": "Transport & Logistics",
+            "class_description": "This category focuses on the practical aspects of getting around. It covers flight schedules, train and bus routes, car rentals, ferry timetables, ride-sharing services, and ticketing details. Travelers discuss the most efficient or cost-effective ways to reach their destinations, baggage policies, layover logistics, or best practices for booking transport. Whether someone is comparing airline fares, plotting road trip stops, or discussing connecting services, the focus is on how to move from place to place.",
+            "index": 6
+        },
+        {
+            "class_name": "Travel Itineraries & Trip Planning",
+            "class_description": "This category involves creating structured travel plans, including suggested activities, day-by-day schedules, and budgeting strategies. Discussions may detail specific attractions to see, how many days to allocate, and cost-saving tips like currency exchange or discounted passes. Whether someone needs a comprehensive one-week plan for a country or a quick weekend itinerary in a city, the central idea is helping travelers organize their time and resources for an efficient, well-rounded trip.",
+            "index": 7
+        },
+        {
+            "class_name": "Accommodation & Lodging",
+            "class_description": "This category focuses on where travelers stay and the factors influencing their choice. It includes hotels, resorts, hostels, short-term rentals like Airbnb, and guesthouses, along with discussion about amenities, location, budget, or family-friendly features. Travelers compare different lodging options, share booking tips, and seek advice on comfort levels. Any conversation dedicated to finding or reviewing a place to sleep or relax during a trip belongs here.",
+            "index": 8
+        },
+        {
+            "class_name": "Tourism Industry, Policy & Market",
+            "class_description": "This category addresses the broader context shaping the travel sector. Topics range from tourism market trends, sustainability programs, infrastructure improvements, and professional training initiatives, to how governments regulate entry or fund tourism boards. It also encompasses niche segments like eco-tourism or medical tourism, data analysis, and the economic or social impact of tourism in a region. Discussions often feature higher-level insights, policy considerations, or development strategies that influence the direction and growth of the tourism industry.",
+            "index": 9
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 10
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "classes": [
+        {
+            "class_name": "AI Identity, Version, and Origins",
+            "class_description": "Focuses on questions or statements about the chatbot\u2019s foundational details. This includes its name, developer, knowledge cutoff date, version (e.g., GPT-3.5 or GPT-4), and the source of its training data. Inquiries about its creation date, relationship to its parent organization, or clarifications regarding when it was last updated also belong here.",
+            "index": 0
+        },
+        {
+            "class_name": "AI Limitations",
+            "class_description": "Covers the boundaries of the AI\u2019s abilities, including its lack of real-time external data, inability to perform physical tasks, and constraints on generating disallowed or highly subjective content. It also includes disclaimers about knowledge cutoffs, potential misidentifications, or inaccuracies, plus any transparency about the AI\u2019s own constraints or errors.",
+            "index": 1
+        },
+        {
+            "class_name": "AI Capabilities",
+            "class_description": "Highlights the AI\u2019s functionalities, such as answering questions, providing suggestions, coding help, generating or summarizing text, and assisting with organization. It encompasses any creative or problem-solving tasks within text-based support, without requiring real-time external actions or physical interaction.",
+            "index": 2
+        },
+        {
+            "class_name": "Comparison with Other AI Systems",
+            "class_description": "Includes discussions relating the AI to other platforms like Google\u2019s Bard or Bing Chat. Such comparisons may involve performance, development background, features, or technical differences. Any direct mention of competing AI systems or distinctions between them falls here.",
+            "index": 3
+        },
+        {
+            "class_name": "AI Emotions or Opinions",
+            "class_description": "Deals with the AI\u2019s absence of personal preferences, emotional responses, or subjective viewpoints. It clarifies situations in which users ask for personal opinions or emotional reactions, illustrating that the AI maintains a neutral stance without genuine human-like emotions.",
+            "index": 4
+        },
+        {
+            "class_name": "Technical Guidance: Phones and Software",
+            "class_description": "Involves detailed instructions for mobile devices, computer operating systems, or locally installed software. This includes guidance on configuring settings, troubleshooting, navigating menus, or managing security features within user-owned devices. It focuses on how to perform specific actions in native environments.",
+            "index": 5
+        },
+        {
+            "class_name": "Technical Guidance: External Apps and Websites",
+            "class_description": "Pertains to using or troubleshooting third-party services and platforms, such as social media sites, Google Docs, or specialized forums. This category covers how to locate settings, manage account preferences, or perform tasks within external apps and websites not native to the user\u2019s local device.",
+            "index": 6
+        },
+        {
+            "class_name": "Email and Account Management",
+            "class_description": "Covers inquiries or advice about creating, recovering, or managing email accounts and other user logins. Tasks include resetting passwords, setting up security measures, sending messages with particular features (like CC or BCC), and best practices for handling sensitive account information.",
+            "index": 7
+        },
+        {
+            "class_name": "Payment or Subscription",
+            "class_description": "Focuses on questions regarding costs, payment methods, or subscription processes for paid services\u2014such as GPT-4 features or other third-party platforms. It addresses how to initiate, modify, or cancel subscriptions and how to troubleshoot billing issues.",
+            "index": 8
+        },
+        {
+            "class_name": "Coding Tasks",
+            "class_description": "Concerns user requests for assistance with coding, whether providing example scripts, debugging, or clarifying programming concepts. It includes generating code snippets in different languages, explaining logic, and offering best practices for specific coding scenarios.",
+            "index": 9
+        },
+        {
+            "class_name": "Creative Writing",
+            "class_description": "Encompasses text creation that demands imagination, such as poetry, short stories, or other literary compositions. It covers editing or enhancing creative work, proposing stylistic changes, and any creative expression beyond direct factual support.",
+            "index": 10
+        },
+        {
+            "class_name": "Search and Browsing Advice",
+            "class_description": "Addresses best practices and strategies for effective online searching, including using advanced search operators. It involves assistance in finding credible sources, refining query terms, and evaluating search results for reliability and relevance.",
+            "index": 11
+        },
+        {
+            "class_name": "Education or Research Use",
+            "class_description": "Includes support for academic, scholarly, or research-oriented queries. Relevant tasks might involve providing study tips, clarifying concepts, suggesting research approaches, or discussing references. It covers AI\u2019s role in aiding learning and factual clarification within educational contexts.",
+            "index": 12
+        },
+        {
+            "class_name": "Official Links or Verification",
+            "class_description": "Deals with confirming legitimate links, official websites, or authoritative contact points. This category includes assisting users in verifying credentials, pinpointing accurate corporate or government domains, and identifying trustworthy resources.",
+            "index": 13
+        },
+        {
+            "class_name": "Correcting or Revising AI Responses",
+            "class_description": "Involves instances where the AI\u2019s previous answer is improved, clarified, or rectified after recognizing inaccuracies or omissions. This includes user feedback indicating errors and the AI\u2019s subsequent adjustments or apologies to maintain precision.",
+            "index": 14
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 15
+        }
+    ]
+}

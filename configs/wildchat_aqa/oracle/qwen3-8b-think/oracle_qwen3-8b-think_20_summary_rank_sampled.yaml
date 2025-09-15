@@ -1,0 +1,22 @@
+model_config:
+  name: Qwen/Qwen3-8B
+  batch_size: 256
+  rope_scaling:
+    rope_type: yarn
+    factor: 4.0
+    original_max_position_embeddings: 32768
+  sampling_params:
+    n: 1
+    max_tokens: 32768
+    top_p: 0.95
+    top_k: 20
+    temperature: 0.6
+  enable_thinking: true
+rag_config:
+  rag_type: mongodb_gt
+  data_path: dataset/wildchat_aqa_sampled_subset_with_embedding_and_gpt_generated_query
+  max_context_token_count: 98000
+  topk: 20
+  prompt_template_path: prompts/eval_wildchat_aqa_prompt_use_summary_rank.md
+  mongodb_host_name: localhost:27017
+  doc_field_name: document_summary

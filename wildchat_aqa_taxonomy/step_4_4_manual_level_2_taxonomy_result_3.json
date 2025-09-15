@@ -1,0 +1,74 @@
+{
+    "classes": [
+        {
+            "class_name": "AI-Generated Art & Prompt Engineering",
+            "class_description": "Focuses on the development and refinement of text prompts and instructions used in AI image generators such as Midjourney, Stable Diffusion, and DALL-E. This category covers techniques for translating creative ideas into text inputs, exploring iterative prompt refinement, and ensuring that generated artworks meet high visual and aesthetic standards. It is dedicated solely to the AI-driven creative process in art and design.",
+            "index": 0
+        },
+        {
+            "class_name": "Digital Art & Software Techniques",
+            "class_description": "Covers technical methods and workflows for creating digital artworks using software tools like Photoshop, GIMP, Blender, and video editing programs. Topics include digital painting, photo editing, 3D rendering, special effects, and post-production techniques. The focus is on mastering digital tools and software pipelines to achieve high-quality visual art according to modern design practices.",
+            "index": 1
+        },
+        {
+            "class_name": "Product & Merchandise Design",
+            "class_description": "Dedicated to designing artwork for application on physical products such as mugs, t-shirts, canvases, and home d\u00e9cor. This category emphasizes versatile compositions, attention to product dimensions, full commercial usage rights, and designs that can be effectively marketed on various merchandise. It targets the entrepreneurial aspects of visual art where a design must adapt to different product formats.",
+            "index": 2
+        },
+        {
+            "class_name": "Logo & Branding Design",
+            "class_description": "Focuses on developing visual brand identities including logos, wordmarks, icons, and comprehensive branding elements. It covers typography, color schemes, layout strategies, and the creation of distinctive design assets that encapsulate a brand\u2019s ethos. This category ensures consistent visual communication across different media and applications.",
+            "index": 3
+        },
+        {
+            "class_name": "Traditional & Manual Art Techniques",
+            "class_description": "Pertains to art created using traditional media and hand-crafted techniques such as drawing, painting, ink, watercolor, gouache, and printmaking. It highlights tactile craftsmanship, historical techniques, and expressive methods that offer an authentic, manual approach to visual artistic creation. This category emphasizes skillful handling of physical mediums.",
+            "index": 4
+        },
+        {
+            "class_name": "Color Theory & Visual Composition",
+            "class_description": "Covers the fundamental principles of color, balance, contrast, and spatial arrangement in visual art. This class emphasizes effective use of color palettes, mood creation, visual hierarchy, and compositional strategies. It provides insights into how artists can communicate ideas and emotions clearly through deliberate design choices related to color and layout.",
+            "index": 5
+        },
+        {
+            "class_name": "Character & Animation Design",
+            "class_description": "Devoted to the creation and illustration of characters, sprites, and animated sequences. This category includes topics on character re-design, dynamic posing, motion techniques, comic styles, and storyboard development. It focuses on bringing characters and narratives to life through both static and moving images.",
+            "index": 6
+        },
+        {
+            "class_name": "Editorial & Commercial Illustration",
+            "class_description": "Encompasses artwork intended for media applications such as stock photography, magazine layouts, book covers, posters, and promotional visuals. This category emphasizes clear visual narratives, high-resolution illustration techniques, and compositions that are marketable and aesthetically engaging. It serves areas where visual storytelling meets commercial presentation.",
+            "index": 7
+        },
+        {
+            "class_name": "Educational & Children's Art",
+            "class_description": "Covers artworks and designs aimed at children and educational contexts. This includes coloring books, printable activity sheets, interactive projects, and art that fosters creative exploration and learning. The focus is on playful, instructional, and engaging visual designs that support early artistic development.",
+            "index": 8
+        },
+        {
+            "class_name": "Architectural & Environmental Design",
+            "class_description": "Deals with artistic representations of built and natural environments, including architectural illustrations, cityscapes, landscapes, and design of interior and exterior spaces. It emphasizes spatial layout, lighting, texture, and material aesthetics, accommodating both historical styles (like Gothic) and modern environmental design concepts.",
+            "index": 9
+        },
+        {
+            "class_name": "Art History & Critique",
+            "class_description": "Focuses on the study, analysis, and discussion of historical art movements, renowned artists, and significant artworks. This category connects historical contexts with contemporary practices, offering critical insights into how classical aesthetics and cultural influences shape modern artistic creation and design.",
+            "index": 10
+        },
+        {
+            "class_name": "Fashion & Costume Design",
+            "class_description": "Addresses the design, illustration, and conceptualization of clothing, costumes, and fashion items. Topics include style development, materiality, detailed costume aesthetics, and practical design requirements for both wearable art and character attire. It emphasizes the blend of functionality with artistic expression in apparel design.",
+            "index": 11
+        },
+        {
+            "class_name": "Digital Media & Advertising Design",
+            "class_description": "Covers the creation of digital layouts and promotional visuals for online platforms, websites, social media, banners, and video advertisements. It emphasizes dynamic imagery, effective typography, web design principles, and clear messaging that supports digital marketing and audience engagement. This category ensures that digital content is both visually appealing and functionally effective.",
+            "index": 12
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 13
+        }
+    ]
+}

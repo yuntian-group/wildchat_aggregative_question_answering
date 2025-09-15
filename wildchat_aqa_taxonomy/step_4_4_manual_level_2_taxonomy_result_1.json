@@ -1,0 +1,79 @@
+{
+    "classes": [
+        {
+            "class_name": "Basic Arithmetic and Numbers",
+            "class_description": "Focuses on elementary numeric operations, simple fractions, ratios, percents, and straightforward word problems. This category addresses fundamental principles of counting, measuring, and performing basic calculations, including common tasks such as multiplication, division, comparing quantities, measuring capacity, and handling simple unit conversions. These skills form the foundation for more advanced mathematics.",
+            "index": 0
+        },
+        {
+            "class_name": "Algebra and Vectors",
+            "class_description": "Covers algebraic expressions, linear and polynomial equations, factorization, systems of equations, inequalities, and fundamental vector operations. Problems here commonly involve finding slopes, intercepts, solving for unknown variables, or adding and scaling vectors. This category is pivotal for understanding symbolic manipulation and the foundational concepts that underpin higher math and physics.",
+            "index": 1
+        },
+        {
+            "class_name": "Geometry and Trigonometry",
+            "class_description": "Deals with the properties of triangles, polygons, circles, and geometric solids, along with trigonometric functions. Typical topics include angles, distances, perimeters, areas, volumes, circle theorems, and the application of sine, cosine, and tangent in right or oblique triangles. Proof-oriented approaches and geometric problem-solving also fall within this category.",
+            "index": 2
+        },
+        {
+            "class_name": "Calculus and Higher Mathematics",
+            "class_description": "Focuses on limits, derivatives, integrals, optimization problems, sequences, series, and other advanced mathematical concepts such as Galois theory or advanced set-theoretic ideas, when relevant. It extends to post-elementary mathematics, including proofs of completeness in metric spaces, special functions, advanced algebraic structures, and topics that require rigorous theoretical treatment.",
+            "index": 3
+        },
+        {
+            "class_name": "Statistics and Probability",
+            "class_description": "Covers descriptive and inferential statistics, probability models, hypothesis testing, confidence intervals, expected values, and basic or intermediate data analysis. This category includes the study of combinatorial methods, distribution types, regression, and the interpretation or modeling of uncertainty in scientific, practical, and experimental contexts.",
+            "index": 4
+        },
+        {
+            "class_name": "Physics: Mechanics, Thermodynamics, and Fields",
+            "class_description": "Addresses classical mechanics, wave phenomena, thermodynamics, electromagnetism, and can extend to modern topics like quantum theory and relativity. Typical problems involve forces, energy, motion equations, momentum and collisions, heat transfer, and electromagnetic or nuclear interactions, linking theoretical derivations with real-world experiments or observations.",
+            "index": 5
+        },
+        {
+            "class_name": "Astronomy and Astrophysics",
+            "class_description": "Examines celestial bodies, including stars, planets, galaxies, and cosmological phenomena such as black holes or the Big Bang. It also considers orbital mechanics, the life cycle of stars, cosmic distances, and the physics governing celestial events. Discussions may encompass observational techniques, theoretical models, and questions of extraterrestrial environments.",
+            "index": 6
+        },
+        {
+            "class_name": "General Chemistry and Reactions",
+            "class_description": "Focuses on chemical principles related to atomic structure, bonding, stoichiometry, reaction mechanisms, acids and bases, redox reactions, and thermodynamic or kinetic aspects. It can include chemical properties of elements, periodic table trends, and basic laboratory processes like titration, pH measurement, and equilibrium calculations in both organic and inorganic contexts.",
+            "index": 7
+        },
+        {
+            "class_name": "Earth Science and Environment",
+            "class_description": "Deals with geologic structures, climate processes, geography, environmental challenges, and the interplay between human activity and Earth\u2019s systems. Topics include weather patterns, resource management, pollution issues, land use, hydrology, and geological time scales, providing insights into Earth's physical processes, ecosystems, and the broader environment.",
+            "index": 8
+        },
+        {
+            "class_name": "Organismal Biology and Evolution",
+            "class_description": "Covers macroscopic living organisms, their ecological relationships, taxonomy, behavior, life cycles, genetics at the population/species level, and evolutionary processes. It addresses adaptations, biodiversity, field observations, fossil records, and phylogeny, shedding light on how species originate, interact with environments, and diversify over time.",
+            "index": 9
+        },
+        {
+            "class_name": "Cellular and Medical Sciences",
+            "class_description": "Encompasses biochemistry, immunology, molecular biology, genetics, physiology, pharmacology, biotechnology, and medical or clinical applications. It explores how cells and molecules function, how diseases manifest at the cellular level, the genetic basis of inheritance, therapeutic interventions, and diagnostic technologies used in research or healthcare.",
+            "index": 10
+        },
+        {
+            "class_name": "Computational Science and Modeling",
+            "class_description": "Encompasses algorithmic design, programming concepts, numerical simulations, data-driven modeling, machine learning, and optimization methods. This category applies computational approaches to solve scientific, mathematical, or engineering challenges, sometimes involving code implementations, software tools, or specialized libraries in fields like image processing and operations research.",
+            "index": 11
+        },
+        {
+            "class_name": "Materials, Engineering, and Technology",
+            "class_description": "Addresses the design, structure, properties, or applications of metals, alloys, polymers, composites, and other materials. It can include topics like corrosion, material synthesis, mechanical properties, nanoscale engineering, structural analysis, and new technology development. Emphasis is on real-world uses and how material properties drive innovation and product design.",
+            "index": 12
+        },
+        {
+            "class_name": "Logic and Puzzles",
+            "class_description": "Deals with formal logic, reasoning techniques, puzzle-solving strategies, combinatorial riddles, and the identification of logical fallacies. Typical problems include deducing missing elements, solving brainteasers, analyzing logical statements for equivalences, or clarifying argument structures in mathematics and philosophy, fostering clear, methodical thinking.",
+            "index": 13
+        },
+        {
+            "class_name": "Undefined",
+            "class_description": "Not clearly defined or categorized within the existing classes.",
+            "index": 14
+        }
+    ]
+}
