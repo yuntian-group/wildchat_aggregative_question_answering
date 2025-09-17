@@ -1,6 +1,11 @@
 # WildChat AQA #
 
-Here is the instruction on how to run the evaluation on WildChat AQA
+This is the official repo of paper *From Chat Logs to Collective Insights: Aggregative Question Answering* in EMNLP 2025
+
+[![arXiv](https://img.shields.io/badge/arXiv-2505.23765-b31b1b.svg)](https://arxiv.org/abs/2505.23765)
+
+**Authors:** [Wentao Zhang](https://wentao-zhang.me/), [Woojeong Kim](https://www.wkim.info/), [Yuntian Deng](https://yuntiandeng.com/)
+
 
 
 ## Dataset ##
@@ -79,6 +84,28 @@ python3 build_PROBE.py --config <CONFIG_FILE>
 
 Here config files are under `configs/wildchat_aqa` folder, you can use anyone of them, we only read data path from the config and use for logging.
 
+
+## Visualization Demo ## 
+
+We implemented the demo of this work using a frontend, backend separation parttern, to run the demo, you need to first build up the mongodb using the script mentioned above. 
+
+And then you need to setup the demo via 
+```
+scripts/visualize/setup_frontend.sh
+```
+
+And then run following instructions to start the backend and frontend respectively in two process.
+
+```
+scripts/visualize/start_backend.sh
+scripts/visualize/start_frontend.sh
+```
+
+And the demo will be available on 
+
+```
+http://localhost:3000
+```
 
 
 ## Citation ##

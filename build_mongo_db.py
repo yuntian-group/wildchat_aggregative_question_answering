@@ -34,7 +34,6 @@ def process_data(data):
     )
     user_name = data["user_name"]
     date_time = data["timestamp"]
-    cid = data["conversation_id"]
     level_1_label = [str(x) for x in data["classes_level_1"]]
     level_2_label = []
     cur_level_2_label_raw = data["classes_level_2"]
@@ -46,7 +45,7 @@ def process_data(data):
     hash_val = data["hash"]
     keywords = data["keywords"]
     keywords_aggregated = data["keywords_aggregated"]
-    language = data["attributes"]["language"][0]
+    language = data["conversation"][0]["language"]
     country = data["conversation"][0]["country"]
     reigon = data["conversation"][0]["state"]
 
@@ -68,7 +67,6 @@ def process_data(data):
         "time_week": get_start_of_week(date_time),
         "time_month": get_start_of_month(date_time),
         "hash": hash_val,
-        "converstation_id": cid,
         "labels": level_1_label + level_2_label,
         "label_level_1": level_1_label,
         "label_level_2": level_2_label,
@@ -158,7 +156,6 @@ def create_main_db(collection, result):
     )
 
     collection.create_index("hash", unique=True)
-    collection.create_index("converstation_id", unique=True)
     collection.create_index("user_name")
     collection.create_index("timestamp")
     collection.create_index("time_day")
@@ -195,7 +192,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--data_path",
         type=str,
-        default="dataset/wildchat_aqa",
+        default="dataset/wildchat_aqa_conversations",
     )
     args = parser.parse_args()
     main(args)

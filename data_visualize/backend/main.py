@@ -7,10 +7,10 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from pymongo import MongoClient
 from datetime import datetime, timedelta
+from build_qa_mongo_db import QA_COLLECTION_NAME
 from concurrent.futures import ThreadPoolExecutor
 from fastapi.middleware.cors import CORSMiddleware
 from build_mongo_db import DB_NAME, COLLECTION_NAME
-from build_qa_mongo_db import QA_COLLECTION_NAME
 
 
 TAXONOMY_CONFIG_PATH = "data_visualize/backend/config.yaml"
@@ -23,7 +23,7 @@ origins = [
     "http://localhost:8000",
     "http://localhost:8080",
     "http://localhost:8000",
-    "http://65.108.32.135:3000",
+    # "http://65.108.32.135:3000",
 ]
 
 app.add_middleware(
